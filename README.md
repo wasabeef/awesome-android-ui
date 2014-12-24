@@ -1,4 +1,4 @@
-awesome-android-ui
+List of Android UI/UX Libraries
 ==================
 A collection of awesome UI/UX resources which includes concepts, implementations and theories.
 
