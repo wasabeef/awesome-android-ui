@@ -13,6 +13,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 
 Layout
 ======================
-Name | Repository | License
+Name | Repository | License | Demo
 --- | --- | --- | ---
-[WaveView](https://github.com/john990/WaveView) | https://github.com/john990/WaveView | Unknown
+[WaveView](https://github.com/john990/WaveView) | https://github.com/john990/WaveView | Unknown | ![](art/waveview.gif)
+
