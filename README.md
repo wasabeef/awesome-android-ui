@@ -138,6 +138,7 @@ Name | License | Demo
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/ViewPagerTransforms.gif)
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | ![](art/AndroidImageSlider.gif)
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/transitions-everywhere.gif)
+[CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | ![](art/CircleIndicator.gif)
 
 Parallax
 ======================
