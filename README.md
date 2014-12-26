@@ -127,7 +127,7 @@ Name | License | Demo
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-times-square.png)
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-MonthCalendarWidget.png)
 [android-betterpickers](https://github.com/derekbrameyer/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-betterpickers.png)
-[Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-betterpickers.png)
+[Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-Week-View.png)
 
 Animation
 ======================
