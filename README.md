@@ -16,7 +16,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [Animation](#animation)
 * [Parallax](#parallax)
 
-Layout
+View
 ======================
 Name | License | Demo
 --- | --- | --- | ---
