@@ -3,7 +3,7 @@ awesome-android-ui
 A collection of awesome UI/UX resources which includes concepts, implementations and theories.
 
 ###Index
-* [View](#view)
+* [Material](#material)
 * [Layout](#layout)
 * [Button](#button)
 * [ListView GridView RecyclerView](#listview--gridview--recyclerview)
@@ -16,11 +16,27 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [Animation](#animation)
 * [Parallax](#parallax)
 
-View
+Material
 ======================
 Name | License | Demo
 --- | --- | --- | ---
+[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialDesignLibrary.png) ![](art/MaterialDesignLibrary2.png) ![](art/MaterialDesignLibrary3.png) ![](art/MaterialDesignLibrary4.png) ![](art/MaterialDesignLibrary5.png) ![](art/MaterialDesignLibrary6.png) ![](art/MaterialDesignLibrary7.png) ![](art/MaterialDesignLibrary8.png) ![](art/MaterialDesignLibrary9.png) ![](art/MaterialDesignLibrary10.png) ![](art/MaterialDesignLibrary11.png) ![](art/MaterialDesignLibrary12.png) ![](art/MaterialDesignLibrary13.png) ![](art/MaterialDesignLibrary14.png)
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/DrawerArrowDrawable.gif)
+[MaterialTabs](https://github.com/neokree/MaterialTabs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialTabs.png) ![](art/MaterialTabs2.png) ![](art/MaterialTabs3.png)
+[material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-ripple.gif)
+[RippleEffect](https://github.com/traex/RippleEffect) | [MIT](http://opensource.org/licenses/MIT) | ![](art/RippleEffect.gif)
+[LDrawer](https://github.com/ikimuhendis/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/LDrawer.gif)
+[material-design-icons](https://github.com/google/material-design-icons) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-design-icons.png)
+[AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | UnKnown | ![](art/AndroidMaterialDesignToolbar.gif)
+[MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialEditText.png)
+[material-menu](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-menu.gif) ![](art/material-menu2.gif)
+[material-dialogs](https://github.com/afollestad/material-dialogs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-dialogs.webp) ![](art/material-dialogs2.webp) ![](art/material-dialogs3.webp)
+[MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialNavigationDrawer.png)
+[MaterialDialog](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialDialog.png) ![](art/MaterialDialog2.png)
+[materialish-progress](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/materialish-progress.gif) ![](art/materialish-progress2.gif)
+[FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | ![](art/FloatingActionButton.gif)
+[android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-floating-action-button.gif) ![](art/android-floating-action-button.png)
+[snackbar](https://github.com/nispok/snackbar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/snackbar.png)
 
 Layout
 ======================
@@ -36,7 +52,6 @@ Name | License | Demo
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-process-button.gif) ![](art/android-process-button2.gif)
 [android-circlebutton](https://github.com/markushi/android-circlebutton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-circlebutton.gif)
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-flat-button.gif)
-[FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | ![](art/FloatingActionButton.gif)
 
 ListView / GridView / RecyclerView
 ======================
