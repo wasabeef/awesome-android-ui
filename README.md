@@ -2,6 +2,8 @@ awesome-android-ui
 ==================
 A collection of awesome UI/UX resources which includes concepts, implementations and theories.
 
+**Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
+
 ###Index
 * [Material](#material)
 * [Layout](#layout)
