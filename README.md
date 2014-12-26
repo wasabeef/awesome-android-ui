@@ -1,6 +1,8 @@
-awesome-android-ui
+List of Android UI/UX Libraries
 ==================
 A collection of awesome UI/UX resources which includes concepts, implementations and theories.
+
+**Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
 
 ###Index
 * [Material](#material)
@@ -64,10 +66,10 @@ Name | License | Demo
 [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/SwipeMenuListView.gif" height="400">
 [discrollview](https://github.com/flavienlaurent/discrollview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/discrollview.gif" height="400">
 [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/StickyListHeaders.gif" height="400">
-[ListBuddies](https://github.com/jpardogo/ListBuddies) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <a href="https://www.youtube.com/watch?v=jgyMqlm_iDI" target="_blank"><img src="art/ListBuddies.png" height="400"></a>
+[ListBuddies](https://github.com/jpardogo/ListBuddies) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <a href="https://www.youtube.com/watch?v=jgyMqlm_iDI" target="_blank"><img src="art/youtube.png" height="50"><img src="art/ListBuddies.png" height="400"></a>
 [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-ObservableScrollView.gif) ![](art/Android-ObservableScrollView2.gif) ![](art/Android-ObservableScrollView3.gif) ![](art/Android-ObservableScrollView4.gif) ![](art/Android-ObservableScrollView5.gif) ![](art/Android-ObservableScrollView6.gif) ![](art/Android-ObservableScrollView7.gif) ![](art/Android-ObservableScrollView8.gif) ![](art/Android-ObservableScrollView9.gif) ![](art/Android-ObservableScrollView10.gif) ![](art/Android-ObservableScrollView11.gif) ![](art/Android-ObservableScrollView12.gif) ![](art/Android-ObservableScrollView13.gif)
 [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AsymmetricGridView.png" height="400"> <img src="art/AsymmetricGridView2.png" height="400">
-[DynamicGrid](https://github.com/askerov/DynamicGrid) | [MIT](http://opensource.org/licenses/MIT) | <a href="https://www.youtube.com/watch?v=zlzNvxksIfY" target="_blank"><img src="art/DynamicGrid.jpeg" height="400" /></a>
+[DynamicGrid](https://github.com/askerov/DynamicGrid) | [MIT](http://opensource.org/licenses/MIT) | <a href="https://www.youtube.com/watch?v=zlzNvxksIfY" target="_blank"><img src="art/DynamicGrid.jpeg" width="350" /><img src="art/youtube.png" height="50"></a>
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AndroidStaggeredGrid.png" height="400">
 
 Label / Form
