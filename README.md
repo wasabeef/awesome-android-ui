@@ -22,7 +22,7 @@ Name | License | Demo
 --- | --- | --- | ---
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialDesignLibrary.png) ![](art/MaterialDesignLibrary2.png) ![](art/MaterialDesignLibrary3.png) ![](art/MaterialDesignLibrary4.png) ![](art/MaterialDesignLibrary5.png) ![](art/MaterialDesignLibrary6.png) ![](art/MaterialDesignLibrary7.png) ![](art/MaterialDesignLibrary8.png) ![](art/MaterialDesignLibrary9.png) ![](art/MaterialDesignLibrary10.png) ![](art/MaterialDesignLibrary11.png) ![](art/MaterialDesignLibrary12.png) ![](art/MaterialDesignLibrary13.png) ![](art/MaterialDesignLibrary14.png)
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/DrawerArrowDrawable.gif)
-[MaterialTabs](https://github.com/neokree/MaterialTabs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialTabs.png) ![](art/MaterialTabs2.png) ![](art/MaterialTabs3.png)
+[MaterialTabs](https://github.com/neokree/MaterialTabs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialTabs.png) ![](art/MaterialTabs2.png) ![](art/MaterialTabs3.jpeg)
 [material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-ripple.gif)
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](http://opensource.org/licenses/MIT) | ![](art/RippleEffect.gif)
 [LDrawer](https://github.com/ikimuhendis/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/LDrawer.gif)
