@@ -12,7 +12,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [SeekBar](#seekbar)
 * [Progress](#progress)
 * [Menu](#menu)
-* [Calendar](#form)
+* [Calendar](#calendar)
 * [Animation](#animation)
 * [Parallax](#parallax)
 
