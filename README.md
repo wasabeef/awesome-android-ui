@@ -19,7 +19,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 Material
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialDesignLibrary.png) ![](art/MaterialDesignLibrary2.png) ![](art/MaterialDesignLibrary3.png) ![](art/MaterialDesignLibrary4.png) ![](art/MaterialDesignLibrary5.png) ![](art/MaterialDesignLibrary6.png) ![](art/MaterialDesignLibrary7.png) ![](art/MaterialDesignLibrary8.png) ![](art/MaterialDesignLibrary9.png) ![](art/MaterialDesignLibrary10.png) ![](art/MaterialDesignLibrary11.png) ![](art/MaterialDesignLibrary12.png) ![](art/MaterialDesignLibrary13.png) ![](art/MaterialDesignLibrary14.png)
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/DrawerArrowDrawable.gif)
 [MaterialTabs](https://github.com/neokree/MaterialTabs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialTabs.png) ![](art/MaterialTabs2.png) ![](art/MaterialTabs3.jpeg)
@@ -41,13 +41,13 @@ Name | License | Demo
 Layout
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [WaveView](https://github.com/john990/WaveView) | Unknown | ![](art/waveview.gif)
 
 Button
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/circular-progress-button.gif)
 [android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-process-button.gif) ![](art/android-process-button2.gif)
 [android-circlebutton](https://github.com/markushi/android-circlebutton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-circlebutton.gif)
@@ -56,7 +56,7 @@ Name | License | Demo
 ListView / GridView / RecyclerView
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/FlabbyListView.gif) ![](art/FlabbyListView2.gif)
 [ParallaxListView](https://github.com/Gnod/ParallaxListView) | UnKnown | ![](art/ParallaxListView.gif)
@@ -73,7 +73,7 @@ Name | License | Demo
 Label / Form
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Shimmer-android.gif)
 [Titanic](https://github.com/RomainPiel/Titanic) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Titanic.gif)
 [MatchView](https://github.com/Rogero0o/MatchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MatchView.gif)
@@ -88,7 +88,7 @@ Name | License | Demo
 Image
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE) | NONE
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/CircleImageView.png)
 [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-shape-imageview.png) ![](art/android-shape-imageview2.png)
@@ -100,13 +100,13 @@ Name | License | Demo
 SeekBar
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/discreteseekbar.gif) ![](art/discreteseekbar2.gif)
 
 Progress
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/SmoothProgressBar.gif)
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | [MIT](http://opensource.org/licenses/MIT) | ![](art/NumberProgressBar.gif)
 [CircleProgress](https://github.com/lzyzsd/CircleProgress) | UnKnown | ![](art/CircleProgress.gif)
@@ -115,14 +115,14 @@ Name | License | Demo
 Menu
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | [MIT](http://opensource.org/licenses/MIT) | ![](art/CircularFloatingActionMenu.gif)
 [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) | [MIT](http://opensource.org/licenses/MIT) | ![](art/AndroidResideMenu.gif)
 
 Calendar
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [Caldroid](https://github.com/roomorama/Caldroid) | [MIT](http://opensource.org/licenses/MIT) | ![](art/Caldroid.png)
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-times-square.png)
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-MonthCalendarWidget.png)
@@ -143,5 +143,5 @@ Name | License | Demo
 Parallax
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](art/parallax-everywhere.gif)
