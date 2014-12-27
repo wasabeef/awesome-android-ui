@@ -35,6 +35,7 @@ Name | License | Demo
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/MaterialEditText.png)
 [material-menu](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-menu.gif) ![](art/material-menu2.gif)
 [material-dialogs](https://github.com/afollestad/material-dialogs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/material-dialogs.webp) ![](art/material-dialogs2.webp) ![](art/material-dialogs3.webp)
+[AlertDialogPro](https://github.com/fengdai/AlertDialogPro) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AlertDialogPro.png" width="49%"> <img src="art/AlertDialogPro2.png" width="49%"> <img src="art/AlertDialogPro3.png" width="49%"> <img src="art/AlertDialogPro4.png" width="49%">
 [MaterialNavigationDrawer](https://github.com/neokree/MaterialNavigationDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/MaterialNavigationDrawer.png" width="49%">
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/MaterialDialog.png" width="49%"> <img src="art/MaterialDialog2.png" width="49%">
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/materialish-progress.gif" width="49%"> <img src="art/materialish-progress2.gif" width="49%">
@@ -73,6 +74,7 @@ Name | License | Demo
 --- | --- | ---
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FlabbyListView.gif" width="49%"> <img src="art/FlabbyListView2.gif" width="49%">
+[recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/recyclerview-stickyheaders.gif" width="49%">
 [ParallaxListView](https://github.com/Gnod/ParallaxListView) | UnKnown | <img src="art/ParallaxListView.gif" width="49%">
 [PullZoomView](https://github.com/Frank-Zhu/PullZoomView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/PullZoomView.gif" width="49%">
 [SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/SwipeMenuListView.gif" width="49%">
@@ -178,4 +180,3 @@ Other
 Name | License | Demo
 --- | --- | ---
 [Swipecards](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/Swipecards.gif" width="49%">
-https://github.com/moagrius/TileView
