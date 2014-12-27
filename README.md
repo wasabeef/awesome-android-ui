@@ -38,7 +38,7 @@ Name | License | Demo
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/MaterialDialog.png" width="175"> <img src="art/MaterialDialog2.png" width="175">
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/materialish-progress.gif" width="200"> <img src="art/materialish-progress2.gif" width="200">
 [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/FloatingActionButton.gif" width="175">
-[android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-floating-action-button.gif) ![](art/android-floating-action-button.png)
+[android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-floating-action-button.gif" width="175"> <img src="art/android-floating-action-button.png" width="175">
 [snackbar](https://github.com/nispok/snackbar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/snackbar.png" width="175">
 [CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/CircularReveal.gif" width="175">
 
