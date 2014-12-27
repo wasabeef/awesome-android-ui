@@ -48,7 +48,7 @@ Layout
 Name | License | Demo
 --- | --- | ---
 [WaveView](https://github.com/john990/WaveView) | Unknown | <img src="art/waveview.gif" width="49%">
-[ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ResideLayout.webm" width="49%">
+[ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ResideLayout.gif" width="49%">
 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidSwipeLayout.gif" width="49%"> <img src="art/AndroidSwipeLayout2.gif" width="49%">
 [FreeFlow](https://github.com/Comcast/FreeFlow) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FreeFlow.png" width="100%">
 [SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/SwipeBackLayout.webp" width="49%"> <img src="art/SwipeBackLayout2.webp" width="49%">
@@ -163,6 +163,9 @@ Name | License | Demo
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidImageSlider.gif" width="49%">
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/transitions-everywhere.gif)
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/CircleIndicator.gif" width="49%">
+[ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
+[Android Ripple Background](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-ripple-background.gif" width="49%"> <img src="art/android-ripple-background2.gif" width="49%">
+[android-flipd](https://github.com/openaphid/android-flipd) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
 
 Parallax
 ======================
