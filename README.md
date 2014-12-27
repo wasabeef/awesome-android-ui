@@ -15,7 +15,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [Progress](#progress)
 * [Menu](#menu)
 * [Calendar](#calendar)
-* [Graph](#Graph)
+* [Graph](#graph)
 * [Animation](#animation)
 * [Parallax](#parallax)
 
