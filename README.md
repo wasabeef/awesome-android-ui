@@ -18,6 +18,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [Graph](#graph)
 * [Animation](#animation)
 * [Parallax](#parallax)
+* [Other](#other)
 
 Material
 ======================
@@ -47,6 +48,15 @@ Layout
 Name | License | Demo
 --- | --- | ---
 [WaveView](https://github.com/john990/WaveView) | Unknown | <img src="art/waveview.gif" width="175">
+[ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ResideLayout.webm" width="175">
+[AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidSwipeLayout.gif" width="175"> <img src="art/AndroidSwipeLayout2.gif" width="175">
+[FreeFlow](https://github.com/Comcast/FreeFlow) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FreeFlow.png" width="100%">
+[SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/SwipeBackLayout.webp" width="175"> <img src="art/SwipeBackLayout2.webp" width="175">
+[Maskable Layout](https://github.com/christophesmet/android_maskable_layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android_maskable_layout.gif" width="175">
+[ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/ExpandableLayout.gif" width="175">
+[android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-PullRefreshLayout.gif" width="175">
+[TileView](https://github.com/moagrius/TileView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/TileView.jpeg" width="45%"> <img src="art/TileView2.jpeg" width="45%">
+
 
 Button
 ======================
@@ -159,3 +169,10 @@ Parallax
 Name | License | Demo
 --- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](art/parallax-everywhere.gif)
+
+Other
+======================
+Name | License | Demo
+--- | --- | ---
+[Swipecards](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/Swipecards.gif" width="175">
+https://github.com/moagrius/TileView
