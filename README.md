@@ -15,6 +15,7 @@ A collection of awesome UI/UX resources which includes concepts, implementations
 * [Progress](#progress)
 * [Menu](#menu)
 * [Calendar](#calendar)
+* [Graph](#Graph)
 * [Animation](#animation)
 * [Parallax](#parallax)
 
@@ -133,6 +134,14 @@ Name | License | Demo
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-MonthCalendarWidget.png)
 [android-betterpickers](https://github.com/derekbrameyer/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-betterpickers.png)
 [Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/Android-Week-View.png)
+
+Graph
+======================
+Name | License | Demo
+--- | --- | ---
+[EazeGraph](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="art/EazeGraph.png" width="250"> <img src="art/EazeGraph2.png" width="200"> <img src="art/EazeGraph3.png" width="250"> <img src="art/EazeGraph4.png" width="250">
+[hellocharts-android](https://github.com/lecho/hellocharts-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="art/hellocharts-android.gif" width="250"> <img src="art/hellocharts-android2.png" width="250"> <img src="art/hellocharts-android3.png" width="250">
+[MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="art/MPAndroidChart.png" width="250"> <img src="art/MPAndroidChart2.png" width="250"> <img src="art/MPAndroidChart3.png" width="250"> <img src="art/MPAndroidChart4.png" width="250">
 
 Animation
 ======================
