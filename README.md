@@ -14,6 +14,7 @@ A curated list of awesome Android UI/UX libraries.
 * [SeekBar](#seekbar)
 * [Progress](#progress)
 * [Menu](#menu)
+* [ActionBar](#actionbar)
 * [Calendar](#calendar)
 * [Graph](#graph)
 * [Animation](#animation)
@@ -58,7 +59,6 @@ Name | License | Demo
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/ExpandableLayout.gif" width="49%">
 [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-PullRefreshLayout.gif" width="49%">
 [TileView](https://github.com/moagrius/TileView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/TileView.jpeg" width="49%"> <img src="art/TileView2.jpeg" width="49%">
-
 
 Button
 ======================
@@ -138,6 +138,12 @@ Name | License | Demo
 [CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) | [MIT](http://opensource.org/licenses/MIT) | ![](art/CircularFloatingActionMenu.gif)
 [AndroidResideMenu](https://github.com/SpecialCyCi/AndroidResideMenu) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidResideMenu.gif" width="49%">
 
+ActionBar
+======================
+Name | License | Demo
+--- | --- | ---
+[FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FadingActionBar.png" width="49%">
+
 Calendar
 ======================
 Name | License | Demo
@@ -166,7 +172,6 @@ Name | License | Demo
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidImageSlider.gif" width="49%">
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/transitions-everywhere.gif)
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/CircleIndicator.gif" width="49%">
-[ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
 [Android Ripple Background](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-ripple-background.gif" width="49%"> <img src="art/android-ripple-background2.gif" width="49%">
 [android-flipd](https://github.com/openaphid/android-flipd) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FragmentTransactionExtended.gif" width="49%"> <img src="art/FragmentTransactionExtended2.gif" width="49%">
@@ -178,6 +183,7 @@ Parallax
 Name | License | Demo
 --- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](art/parallax-everywhere.gif)
+[ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
 
 Other
 ======================
