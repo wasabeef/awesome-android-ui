@@ -192,7 +192,8 @@ Blur
 ======================
 Name | License | Demo
 --- | --- | ---
-[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/KenBurnsView.gif" width="49%">
+[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/EtsyBlur.gif" width="49%">
+[BlurDialogFragment](https://github.com/tvbarthel/BlurDialogFragment) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/BlurDialogFragment.png" width="49%"> <img src="art/BlurDialogFragment2.png" width="49%">
 
 
 Other
