@@ -169,6 +169,7 @@ Name | License | Demo
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
 [Android Ripple Background](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-ripple-background.gif" width="49%"> <img src="art/android-ripple-background2.gif" width="49%">
 [android-flipd](https://github.com/openaphid/android-flipd) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
+[FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FragmentTransactionExtended.gif" width="49%"> <img src="art/FragmentTransactionExtended2.gif" width="49%">
 
 Parallax
 ======================
