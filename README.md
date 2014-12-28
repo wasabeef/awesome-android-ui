@@ -19,6 +19,7 @@ A curated list of awesome Android UI/UX libraries.
 * [Graph](#graph)
 * [Animation](#animation)
 * [Parallax](#parallax)
+* [Blur](#blur)
 * [Other](#other)
 
 Material
@@ -186,6 +187,13 @@ Name | License | Demo
 --- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](art/parallax-everywhere.gif)
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
+
+Blur
+======================
+Name | License | Demo
+--- | --- | ---
+[EtsyBlur](https://github.com/Manabu-GT/EtsyBlur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/KenBurnsView.gif" width="49%">
+
 
 Other
 ======================
