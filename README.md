@@ -87,6 +87,8 @@ Name | License | Demo
 [AsymmetricGridView](https://github.com/felipecsl/AsymmetricGridView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AsymmetricGridView.png" width="49%"> <img src="art/AsymmetricGridView2.png" width="49%">
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | [MIT](http://opensource.org/licenses/MIT) | <a href="https://www.youtube.com/watch?v=zlzNvxksIfY" target="_blank"><img src="art/DynamicGrid.jpeg" width="100%" /><img src="art/youtube.png" height="50"></a>
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AndroidStaggeredGrid.png" width="49%">
+[SwipeListView](https://github.com/47deg/android-swipelistview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-swipelistview.png" width="49%">
+
 
 Label / Form
 ======================
