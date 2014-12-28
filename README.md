@@ -116,7 +116,8 @@ Name | License | Demo
 [GifImageView](https://github.com/felipecsl/GifImageView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/GifImageView.gif" width="49%">
 [cropper](https://github.com/edmodo/cropper) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/cropper.jpeg" width="49%">
 [android-crop](https://github.com/jdamcd/android-crop) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-crop.png" width="49%">
-[SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/SelectableRoundedImageView.png)
+[SelectableRoundedImageView](https://github.com/pungrue26/SelectableRoundedImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/SelectableRoundedImageView.png" width="100%">
+[RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/RoundedImageView.png" width="49%"> <img src="art/RoundedImageView2.png" width="49%">
 
 SeekBar
 ======================
