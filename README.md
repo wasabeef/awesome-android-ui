@@ -8,9 +8,9 @@ A curated list of awesome Android UI/UX libraries.
 * [Material](#material)
 * [Layout](#layout)
 * [Button](#button)
-* [ListView GridView RecyclerView](#listview--gridview--recyclerview)
+* [List / Grid](#list--grid)
 * [ViewPager](#viewpager)
-* [Label](#label--form)
+* [Label / Form](#label--form)
 * [Image](#image)
 * [SeekBar](#seekbar)
 * [Progress](#progress)
@@ -73,7 +73,7 @@ Name | License | Demo
 [android-circlebutton](https://github.com/markushi/android-circlebutton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/android-circlebutton.gif)
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-flat-button.gif" width="49%">
 
-ListView / GridView / RecyclerView
+List / Grid
 ======================
 Name | License | Demo
 --- | --- | ---
