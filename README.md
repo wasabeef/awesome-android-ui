@@ -60,6 +60,7 @@ Name | License | Demo
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/ExpandableLayout.gif" width="49%">
 [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-PullRefreshLayout.gif" width="49%">
 [TileView](https://github.com/moagrius/TileView) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/TileView.jpeg" width="49%"> <img src="art/TileView2.jpeg" width="49%">
+[ShowcaseView](https://github.com/amlcurran/ShowcaseView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ShowcaseView.png" width="49%"> <img src="art/ShowcaseView2.png" width="49%">
 
 Button
 ======================
@@ -88,7 +89,6 @@ Name | License | Demo
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | [MIT](http://opensource.org/licenses/MIT) | <a href="https://www.youtube.com/watch?v=zlzNvxksIfY" target="_blank"><img src="art/DynamicGrid.jpeg" width="100%" /><img src="art/youtube.png" height="50"></a>
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AndroidStaggeredGrid.png" width="49%">
 [SwipeListView](https://github.com/47deg/android-swipelistview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-swipelistview.png" width="49%">
-
 
 Label / Form
 ======================
