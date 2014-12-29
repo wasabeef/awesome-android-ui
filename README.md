@@ -9,6 +9,7 @@ A curated list of awesome Android UI/UX libraries.
 * [Layout](#layout)
 * [Button](#button)
 * [ListView GridView RecyclerView](#listview--gridview--recyclerview)
+* [ViewPager](#viewpager)
 * [Label](#label--form)
 * [Image](#image)
 * [SeekBar](#seekbar)
@@ -90,6 +91,14 @@ Name | License | Demo
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | [MIT](http://opensource.org/licenses/MIT) | <a href="https://www.youtube.com/watch?v=zlzNvxksIfY" target="_blank"><img src="art/DynamicGrid.jpeg" width="100%" /><img src="art/youtube.png" height="50"></a>
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/AndroidStaggeredGrid.png" width="49%">
 [SwipeListView](https://github.com/47deg/android-swipelistview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/android-swipelistview.png" width="49%">
+
+ViewPager
+======================
+Name | License | Demo
+--- | --- | ---
+[ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
+[ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ViewPagerTransforms.gif" width="49%">
+[CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/CircleIndicator.gif" width="49%">
 
 Label / Form
 ======================
@@ -175,10 +184,8 @@ Name | License | Demo
 --- | --- | --- | ---
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/androidviewanimations.gif" width="49%">
 [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ListViewAnimations.gif" width="49%">
-[ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/ViewPagerTransforms.gif" width="49%">
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/AndroidImageSlider.gif" width="49%">
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](art/transitions-everywhere.gif)
-[CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/CircleIndicator.gif" width="49%">
 [Android Ripple Background](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-ripple-background.gif" width="49%"> <img src="art/android-ripple-background2.gif" width="49%">
 [android-flipd](https://github.com/openaphid/android-flipd) | [MIT](http://opensource.org/licenses/MIT) | <img src="art/android-flipd.gif" width="49%"> <img src="art/android-flipd2.gif" width="49%">
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/FragmentTransactionExtended.gif" width="49%"> <img src="art/FragmentTransactionExtended2.gif" width="49%">
@@ -190,7 +197,6 @@ Parallax
 Name | License | Demo
 --- | --- | ---
 [ParallaxEverywhere](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](art/parallax-everywhere.gif)
-[ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | Unknown | <img src="art/ParallaxPagerTransformer.gif" width="49%">
 
 Blur
 ======================
