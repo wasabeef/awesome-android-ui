@@ -94,6 +94,7 @@ Name | License | Demo
 [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidStaggeredGrid.png" width="49%">
 [SwipeListView](https://github.com/47deg/android-swipelistview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-swipelistview.png" width="49%">
 [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-parallax-recyclerview.gif" width="49%"> <img src="/art/android-parallax-recyclerview2.gif" width="49%">
+[BlurStickyHeaderListView](https://github.com/emmano/BlurStickyHeaderListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurStickyHeaderListView.png" width="49%" />
 
 ViewPager
 ======================
