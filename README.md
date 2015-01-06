@@ -4,7 +4,7 @@ A curated list of awesome Android UI/UX libraries.
 
 **Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
 
-###Index
+### Index `(light-weight page)`
 * [Material](pages/Material.md)
 * [Layout](pages/Layout.md)
 * [Button](pages/Button.md)
