@@ -4,7 +4,7 @@ A curated list of awesome Android UI/UX libraries.
 
 **Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
 
-###Index
+### Index `(light-weight page)`
 * [Material](pages/Material.md)
 * [Layout](pages/Layout.md)
 * [Button](pages/Button.md)
@@ -96,7 +96,7 @@ Name | License | Demo
 [SwipeListView](https://github.com/47deg/android-swipelistview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-swipelistview.png" width="49%">
 [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-parallax-recyclerview.gif" width="49%"> <img src="/art/android-parallax-recyclerview2.gif" width="49%">
 [BlurStickyHeaderListView](https://github.com/emmano/BlurStickyHeaderListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurStickyHeaderListView.gif" width="49%" />
-[RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recyclerview-animators.gif" width="49%">
+[RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recyclerview-animators.gif" width="49%"> <img src="/art/recyclerview-animators2.gif" width="49%">
 
 ViewPager
 ======================
