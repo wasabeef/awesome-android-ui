@@ -1,5 +1,7 @@
 List of Android UI/UX Libraries
 ==================
+![Project status](http://stillmaintained.com/wasabeef/awesome-android-ui.png)
+
 A curated list of awesome Android UI/UX libraries.
 
 **Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
