@@ -15,3 +15,4 @@ Name | License | Demo
 [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-Ultra-Pull-To-Refresh.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh2.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh3.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh4.gif" width="49%">
 [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DraggablePanel.gif" width="49%"> <img src="/art/DraggablePanel2.gif" width="49%">
+[Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
