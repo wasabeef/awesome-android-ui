@@ -70,6 +70,7 @@ Name | License | Demo
 [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DraggablePanel.gif" width="49%"> <img src="/art/DraggablePanel2.gif" width="49%">
 [Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
+[Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Pull-to-Refresh.Rentals-Android.gif" width="100%">
 
 Button
 ======================
