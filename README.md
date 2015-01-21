@@ -102,6 +102,7 @@ Name | License | Demo
 [android-parallax-recyclerview](https://github.com/kanytu/android-parallax-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-parallax-recyclerview.gif" width="49%"> <img src="/art/android-parallax-recyclerview2.gif" width="49%">
 [BlurStickyHeaderListView](https://github.com/emmano/BlurStickyHeaderListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurStickyHeaderListView.gif" width="49%" />
 [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recyclerview-animators.gif" width="49%"> <img src="/art/recyclerview-animators2.gif" width="49%">
+[RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-FlexibleDivider.png" width="49%"> <img src="/art/RecyclerView-FlexibleDivider2.png" width="49%">
 
 ViewPager
 ======================
