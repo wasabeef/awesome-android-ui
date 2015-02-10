@@ -215,6 +215,7 @@ Name | License | Demo
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | UnKnown | <img src="/art/EasyAndroidAnimations.gif" width="49%">
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-pathview.gif" width="49%">
+[ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewRevealAnimator.gif" width="49%">
 
 Parallax
 ======================
@@ -240,4 +241,4 @@ Name | License | Demo
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Android-Bootstrap.png" width="49%">
 [Android PDFView](https://github.com/JoanZapata/android-pdfview) | [GPL V3](http://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
 [Dspec](https://github.com/lucasr/dspec) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/dspec.png" width="100%">
-[LolliPin](https://github.com/OrangeGangsters/LolliPin) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LolliPin.png" width="49%">
+[LolliPin](https://github.com/OrangeGangsters/LolliPin) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LolliPin.gif" width="49%">

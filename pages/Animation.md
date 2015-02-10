@@ -15,3 +15,4 @@ Name | License | Demo
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | UnKnown | <img src="/art/EasyAndroidAnimations.gif" width="49%">
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-pathview.gif" width="49%">
+[ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewRevealAnimator.gif" width="49%">
