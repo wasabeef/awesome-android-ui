@@ -18,3 +18,4 @@ Name | License | Demo
 [Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
 [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Pull-to-Refresh.Rentals-Android.gif" width="100%">
 [InboxLayout](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
+[SwipeBack](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
