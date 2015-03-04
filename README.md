@@ -74,7 +74,7 @@ Name | License | Demo
 [Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
 [Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Pull-to-Refresh.Rentals-Android.gif" width="100%">
 [InboxLayout](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
-[SwipeBack](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
+[SwipeBack](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
 
 Button
 ======================
@@ -224,7 +224,7 @@ Name | License | Demo
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-pathview.gif" width="49%">
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewRevealAnimator.gif" width="49%">
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ArcAnimator.gif" width="49%"> <img src="/art/ArcAnimator2.gif" width="49%">
-
+[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="/art/SearchMenuAnim.gif" width="100%">
 
 Parallax
 ======================

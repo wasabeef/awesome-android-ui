@@ -17,3 +17,4 @@ Name | License | Demo
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-pathview.gif" width="49%">
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewRevealAnimator.gif" width="49%">
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ArcAnimator.gif" width="49%"> <img src="/art/ArcAnimator2.gif" width="49%">
+[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="/art/SearchMenuAnim.gif" width="100%">
