@@ -129,6 +129,7 @@ Label / Form
 Name | License | Demo
 --- | --- | ---
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Shimmer-android.gif)
+[Shimmer for Android](https://github.com/facebook/shimmer-android) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | <img src="/art/shimmer-android-fb.gif" width="100%">
 [Titanic](https://github.com/RomainPiel/Titanic) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Titanic.gif" width="100%">
 [MatchView](https://github.com/Rogero0o/MatchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MatchView.gif" width="49%">
 [android-autofittextview](https://github.com/grantland/android-autofittextview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-autofittextview.gif)
@@ -218,7 +219,7 @@ Name | License | Demo
 [android-flip](https://github.com/openaphid/android-flip) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-flip.gif" width="49%"> <img src="/art/android-flip2.gif" width="49%">
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FragmentTransactionExtended.gif" width="49%"> <img src="/art/FragmentTransactionExtended2.gif" width="49%">
 [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/KenBurnsView.gif" width="49%">
-[rebound](https://github.com/facebook/rebound) | [BSD 2  License](http://opensource.org/licenses/BSD-2-Clause) | http://facebook.github.io/rebound/
+[rebound](https://github.com/facebook/rebound) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | http://facebook.github.io/rebound/
 [Reachability](https://github.com/sakebook/Reachability) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Reachability.gif" width="49%">
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | UnKnown | <img src="/art/EasyAndroidAnimations.gif" width="49%">
