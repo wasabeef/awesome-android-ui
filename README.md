@@ -18,6 +18,7 @@ A curated list of awesome Android UI/UX libraries.
 * [Progress](pages/Progress.md)
 * [Menu](pages/Menu.md)
 * [ActionBar](pages/ActionBar.md)
+* [Dialog](pages/Dialog.md)
 * [Calendar](pages/Calendar.md)
 * [Graph](pages/Graph.md)
 * [Animation](pages/Animation.md)
@@ -193,6 +194,12 @@ Name | License | Demo
 [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FadingActionBar.png" width="100%">
 [GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GlassActionBar.png" width="100%">
 [NotBoringActionBar](https://github.com/flavienlaurent/NotBoringActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/NotBoringActionBar.gif" width="49%">
+
+Dialog
+======================
+Name | License | Demo
+--- | --- | ---
+[DialogPlus](https://github.com/orhanobut/dialogplus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DialogPlus.png" width="30%"> <img src="/art/DialogPlus2.gif" width="49%">
 
 Calendar
 ======================
