@@ -116,6 +116,7 @@ Name | License | Demo
 [RecyclerView-FlexibleDivider](https://github.com/yqritc/RecyclerView-FlexibleDivider) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-FlexibleDivider.png" width="49%"> <img src="/art/RecyclerView-FlexibleDivider2.png" width="49%">
 [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidTreeView.webp" width="49%"> <img src="/art/AndroidTreeView2.webp" width="49%">
 [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerViewFastScroller.png" width="49%"> <img src="/art/RecyclerViewFastScroller2.png" width="49%">
+[RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
 
 ViewPager
 ======================
