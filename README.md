@@ -4,8 +4,7 @@ List of Android UI/UX Libraries
 
 A curated list of awesome Android UI/UX libraries.
 
-**Core Library is [here](https://github.com/wasabeef/awesome-android-libraries).**
-
+- _Looking for Core Library? Check out_ [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries).
 - _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ### Index `(light-weight page)`
