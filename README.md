@@ -9,8 +9,8 @@ A curated list of awesome Android UI/UX libraries.
 - _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ## Mantainer
-[wasabeef](https://github.com/wasabeef) - [@wasabeef_jp](https://twitter.com/wasabeef_jp)  
-[ogaclejapan](https://github.com/ogaclejapan) - [@ogaclejapan](https://twitter.com/ogaclejapan)
+<a href="https://github.com/wasabeef"><img src="https://avatars0.githubusercontent.com/u/1833474?v=3&s=32"/> wasabeef</a>  
+<a href="https://github.com/ogaclejapan"><img src="https://avatars2.githubusercontent.com/u/1496485?v=3&s=32"/> ogaclejapan</a>
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
