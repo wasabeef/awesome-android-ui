@@ -12,7 +12,7 @@ A curated list of awesome Android UI/UX libraries.
 [wasabeef](https://github.com/wasabeef) - [@wasabeef_jp](https://twitter.com/wasabeef_jp)  
 [ogaclejapan](https://github.com/ogaclejapan) - [@ogaclejapan](https://twitter.com/ogaclejapan)
 
-## Index `(light-weight page)`
+## Index `(light-weight pages)`
 * [Material](pages/Material.md)
 * [Layout](pages/Layout.md)
 * [Button](pages/Button.md)
