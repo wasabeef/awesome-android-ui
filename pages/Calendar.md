@@ -7,3 +7,4 @@ Name | License | Demo
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-MonthCalendarWidget.png)
 [android-betterpickers](https://github.com/derekbrameyer/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-betterpickers.png)
 [Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-Week-View.png)
+[SilkCal](https://github.com/NLMartian/SilkCal) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SilkCat.gif" width="49%">
