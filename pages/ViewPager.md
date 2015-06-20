@@ -10,3 +10,5 @@ Name | License | Demo
 [freepager](https://github.com/alexzaitsev/freepager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/freepager.gif" width="49%">
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SpringIndicator.gif" width="49%">
 [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/smarttablayout.gif" width="49%">
+[FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlipViewPager-Draco.gif" width="100%">
+[MaterialViewPager](https://github.com/florent37/MaterialViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialViewPager.png" width="49%"> <img src="/art/MaterialViewPager2.gif" width="49%">
