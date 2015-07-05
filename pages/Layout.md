@@ -16,13 +16,12 @@ Name | License | Demo
 [AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/DraggablePanel.gif" width="49%"> <img src="/art/DraggablePanel2.gif" width="49%">
 [Slidr](https://github.com/r0adkll/Slidr) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Slidr.gif" width="49%">
-[Pull-to-Refresh.Rentals-Android](https://github.com/Yalantis/Pull-to-Refresh.Rentals-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Pull-to-Refresh.Rentals-Android.gif" width="100%">
-[Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Taurus.gif" width="100%">
+[Phoenix Pull-to-Refresh](https://github.com/Yalantis/Phoenix) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Phoenix.gif" width="65%">
+[Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Taurus.gif" width="65%">
 [InboxLayout](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
 [SwipeBack](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
 [ArcLayout](https://github.com/ogaclejapan/ArcLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/arclayout1.gif" width="49%">
 [Dragger](https://github.com/ppamorim/Dragger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dragger.gif" width="100%">
 [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PhysicsLayout.gif" width="49%">
 [BottomSheet](https://github.com/Flipboard/bottomsheet) | [License](https://github.com/Flipboard/bottomsheet/blob/master/LICENSE) | <img src="/art/BottomSheet.gif" width="49%">
-[Phoenix](https://github.com/Yalantis/Phoenix) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Phoenix.gif" width="60%">
 [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/bubbles-for-android.gif" width="49%">
