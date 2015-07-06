@@ -89,6 +89,7 @@ Name | License | Demo
 [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PhysicsLayout.gif" width="49%">
 [BottomSheet](https://github.com/Flipboard/bottomsheet) | [License](https://github.com/Flipboard/bottomsheet/blob/master/LICENSE) | <img src="/art/BottomSheet.gif" width="49%">
 [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/bubbles-for-android.gif" width="49%">
+[AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSlidingUpPanel.jpg" width="100%">
 
 Button
 ======================
