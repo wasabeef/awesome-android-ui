@@ -12,3 +12,4 @@ Name | License | Demo
 [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/smarttablayout.gif" width="49%">
 [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlipViewPager-Draco.gif" width="100%">
 [MaterialViewPager](https://github.com/florent37/MaterialViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialViewPager.png" width="49%"> <img src="/art/MaterialViewPager2.gif" width="49%">
+[AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidRubberIndicator.gif" width="60%">
