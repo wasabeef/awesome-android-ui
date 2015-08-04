@@ -61,6 +61,7 @@ Name | License | Demo
 [Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [material-calendarview](https://github.com/prolificinteractive/material-calendarview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-calendarview.gif" width="49%">
 [Material](https://github.com/rey5137/material) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Material.gif" width="49%"> <img src="/art/Material2.gif" width="49%"> <img src="/art/Material3.gif" width="49%"> <img src="/art/Material4.gif" width="49%"> <img src="/art/Material5.gif" width="49%"> <img src="/art/Material6.gif" width="49%"> <img src="/art/Material7.gif" width="49%"> <img src="/art/Material8.gif" width="49%"> <img src="/art/Material9.gif" width="49%"> <img src="/art/Material10.gif" width="49%"> <img src="/art/Material11.png" width="49%">
+[Material Icon Library](https://github.com/code-mc/material-icon-lib) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-icon-lib.gif" width="100%">
 
 Layout
 ======================
