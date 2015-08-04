@@ -27,3 +27,4 @@ Name | License | Demo
 [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/bubbles-for-android.gif" width="49%">
 [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidSlidingUpPanel.jpg" width="100%">
 [android-transition](https://github.com/kaichunlin/android-transition) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-transition.gif" width="49%">
+[AndroidAutoHideHeader](https://github.com/vcaen/AndroidAutoHideHeader) | [MIT License](http://opensource.org/licenses/MIT) | <img src="/art/AutoHideHeader.gif" width="49%">
