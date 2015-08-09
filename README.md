@@ -1,6 +1,6 @@
-List of Android UI/UX Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
+List of Android UI/UX Libraries
 ==================
-![Project status](http://stillmaintained.com/wasabeef/awesome-android-ui.png)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
 
 A curated list of awesome Android UI/UX libraries.
 
