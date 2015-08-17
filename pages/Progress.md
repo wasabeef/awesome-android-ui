@@ -11,3 +11,4 @@ Name | License | Demo
 [WaitingDots](https://github.com/tajchert/WaitingDots) | [MIT](http://opensource.org/licenses/MIT) | ![](/art/waitingdots.gif)
 [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ElasticDownload.gif" width="49%"> <img src="/art/ElasticDownload2.gif" width="49%">
 [FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABProgressCircle.gif" width="49%">
+[Loading](https://github.com/yankai-victor/Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Loading.gif" width="49%"> <img src="/art/Loading2.gif" width="49%"> <img src="/art/Loading3.gif" width="49%">
