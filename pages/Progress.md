@@ -13,3 +13,4 @@ Name | License | Demo
 [FABProgressCircle](https://github.com/JorgeCastilloPrz/FABProgressCircle) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABProgressCircle.gif" width="49%">
 [Loading](https://github.com/yankai-victor/Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Loading.gif" width="49%"> <img src="/art/Loading2.gif" width="49%"> <img src="/art/Loading3.gif" width="49%">
 [Animated Circle Loading View](https://github.com/jlmd/AnimatedCircleLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AnimatedCircleLoadingView.gif" width="49%">
+[AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidFillableLoaders.gif" width="49%"> <img src="/art/AndroidFillableLoaders2.gif" width="49%">
