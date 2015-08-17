@@ -1,6 +1,6 @@
 List of Android UI/UX Libraries
 ==================
-![Project status](http://stillmaintained.com/wasabeef/awesome-android-ui.png)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
 
 A curated list of awesome Android UI/UX libraries.
 
@@ -133,7 +133,7 @@ Name | License | Demo
 [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerViewFastScroller.png" width="49%"> <img src="/art/RecyclerViewFastScroller2.png" width="49%">
 [RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
 [SwipeToAction](https://github.com/diftco/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
-
+[Advanced Recyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AdvancedRecyclerView.gif" width="49%">
 
 ViewPager
 ======================
