@@ -31,3 +31,4 @@ Name | License | Demo
 [Material Icon Library](https://github.com/code-mc/material-icon-lib) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-icon-lib.gif" width="100%">
 [FAB-Loading](https://github.com/smasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
 [MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTextField.gif" width="49%">
+[MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
