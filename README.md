@@ -235,6 +235,7 @@ Name | License | Demo
 [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Side-Menu.Android.gif" width="100%">
 [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Context-Menu.Android.gif" width="100%">
 [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GuillotineMenu-Android.gif" width="100%">
+[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
 
 ActionBar
 ======================
