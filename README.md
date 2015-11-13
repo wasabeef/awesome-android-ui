@@ -42,7 +42,7 @@ Name | License | Demo
 [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PagerSlidingTabStrip.gif" width="49%">
 [material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-ripple.gif" width="49%">
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](http://opensource.org/licenses/MIT) | ![](/art/RippleEffect.gif)
-[LDrawer](https://github.com/ikimuhendis/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LDrawer.gif" width="49%">
+[LDrawer](https://github.com/keklikhasan/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LDrawer.gif" width="49%">
 [material-design-icons](https://github.com/google/material-design-icons) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-design-icons.png)
 [AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | UnKnown | <img src="/art/AndroidMaterialDesignToolbar.gif" width="49%">
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/MaterialEditText.png)
@@ -74,7 +74,7 @@ Name | License | Demo
 [WaveView](https://github.com/john990/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/waveview.gif" width="49%">
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ResideLayout.gif" width="49%">
 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidSwipeLayout.gif" width="49%"> <img src="/art/AndroidSwipeLayout2.gif" width="49%">
-[SwipeBackLayout](https://github.com/Issacw0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
+[SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
 [Maskable Layout](https://github.com/christophesmet/android_maskable_layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android_maskable_layout.gif" width="49%">
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ExpandableLayout.gif" width="49%">
 [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-PullRefreshLayout.gif" width="49%">
@@ -143,7 +143,7 @@ Name | License | Demo
 [AndroidTreeView](https://github.com/bmelnychuk/AndroidTreeView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidTreeView.webp" width="49%"> <img src="/art/AndroidTreeView2.webp" width="49%">
 [RecyclerViewFastScroller](https://github.com/danoz73/RecyclerViewFastScroller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerViewFastScroller.png" width="49%"> <img src="/art/RecyclerViewFastScroller2.png" width="49%">
 [RecyclerView-MultipleViewTypesAdapter](https://github.com/yqritc/RecyclerView-MultipleViewTypesAdapter) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RecyclerView-MultipleViewTypesAdapter.gif" width="49%">
-[SwipeToAction](https://github.com/diftco/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
+[SwipeToAction](https://github.com/vcalvello/SwipeToAction) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeToAction.gif" width="49%">
 [Advanced Recyclerview](https://github.com/h6ah4i/android-advancedrecyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AdvancedRecyclerView.gif" width="49%">
 [RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recycler-itemdecoration1.gif" width="49%"> <img src="/art/recycler-itemdecoration2.gif" width="49%">
 [MaterialRecents](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
@@ -158,7 +158,7 @@ Name | License | Demo
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewPagerTransforms.gif" width="49%">
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CircleIndicator.gif" width="49%">
-[Android ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ViewPagerIndicator.png" width="100%">
+[Android ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ViewPagerIndicator.png" width="100%">
 [Android-ParallaxHeaderViewPager](https://github.com/kmshack/Android-ParallaxHeaderViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ParallaxHeaderViewPager.gif" width="100%">
 [freepager](https://github.com/alexzaitsev/freepager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/freepager.gif" width="49%">
 [SpringIndicator](https://github.com/chenupt/SpringIndicator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SpringIndicator.gif" width="49%">
@@ -266,7 +266,7 @@ Name | License | Demo
 [Caldroid](https://github.com/roomorama/Caldroid) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/Caldroid.png" width="49%">
 [android-times-square](https://github.com/square/android-times-square) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-times-square.png" width="49%">
 [Android-MonthCalendarWidget](https://github.com/romannurik/Android-MonthCalendarWidget) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-MonthCalendarWidget.png)
-[android-betterpickers](https://github.com/derekbrameyer/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-betterpickers.png)
+[android-betterpickers](https://github.com/code-troopers/android-betterpickers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-betterpickers.png)
 [Android-Week-View](https://github.com/alamkanak/Android-Week-View) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Android-Week-View.png)
 [SilkCal](https://github.com/NLMartian/SilkCal) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SilkCat.gif" width="49%">
 [SublimePicker](https://github.com/vikramkakkar/SublimePicker) |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/sublimePicker_date.png" width="49%">  <img src="/art/sublimePicker_time.png" width="49%"> <img src="/art/sublimePicker_repeat.png" width="49%">
@@ -334,6 +334,6 @@ Name | License | Demo
 [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-materialshadowninepatch.png" width="49%">
 [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | [Apache License v2](https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/LICENSE) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
 [Decor](https://github.com/chemouna/decor) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/decor.png" width="49%">
-[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](http://www.youtube.com/watch?v=fJTl1bgQ3j4)
+[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [EasyFonts](https://github.com/vsvankhede/easyfonts) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/easyfonts.png" width="100%">
 [Android Sliding Activity Library](https://github.com/klinker41/android-slidingactivity) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">
