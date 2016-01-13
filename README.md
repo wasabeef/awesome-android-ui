@@ -214,7 +214,7 @@ SeekBar
 Name | License | Demo
 --- | --- | ---
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/discreteseekbar.gif) ![](/art/discreteseekbar2.gif)
-[SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/seekbarcompat.gif) 
+[SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/seekbarcompat.gif)
 
 Progress
 ======================
@@ -232,6 +232,7 @@ Name | License | Demo
 [Animated Circle Loading View](https://github.com/jlmd/AnimatedCircleLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AnimatedCircleLoadingView.gif" width="49%">
 [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidFillableLoaders.gif" width="49%"> <img src="/art/AndroidFillableLoaders2.gif" width="49%">
 [spots-dialog](https://github.com/d-max/spots-dialog) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/spots_dialog.gif" width="49%">
+[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
 [LoadingDots](https://github.com/EyalBira/loading-dots) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/loading-dots.gif" width="49%">
 
 Menu
@@ -244,7 +245,6 @@ Name | License | Demo
 [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Side-Menu.Android.gif" width="100%">
 [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Context-Menu.Android.gif" width="100%">
 [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GuillotineMenu-Android.gif" width="100%">
-[AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
 
 ActionBar
 ======================
