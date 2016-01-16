@@ -32,3 +32,4 @@ Name | License | Demo
 [FAB-Loading](https://github.com/smasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
 [MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTextField.gif" width="49%">
 [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
+[fab-speed-dial](https://github.com/yavski/fab-speed-dial) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="http://yavski.github.io/fab-speed-dial/sample-01.gif" width="75%">
