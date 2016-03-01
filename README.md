@@ -168,6 +168,7 @@ Name | License | Demo
 [AndroidRubberIndicator](https://github.com/LyndonChin/AndroidRubberIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidRubberIndicator.gif" width="60%">
 [HollyViewPager](https://github.com/florent37/HollyViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/HollyViewPager.gif" width="49%">
 [SCViewPager](https://github.com/sacot41/SCViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SCViewPager.gif" width="49%">
+[SwipeSelector](https://github.com/roughike/SwipeSelector) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeSelector.gif" width="49%" />
 
 Label / Form
 ======================
