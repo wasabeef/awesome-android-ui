@@ -235,6 +235,7 @@ Name | License | Demo
 [spots-dialog](https://github.com/d-max/spots-dialog) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/spots_dialog.gif" width="49%">
 [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AVLoadingIndicatorView.gif" width="49%">
 [LoadingDots](https://github.com/EyalBira/loading-dots) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/loading-dots.gif" width="49%">
+[ColorArcProgerssBar](https://github.com/Shinelw/ColorArcProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ColorArcProgressBar.gif" width="49%">
 
 Menu
 ======================
