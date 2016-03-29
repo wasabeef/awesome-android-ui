@@ -36,3 +36,4 @@ Name | License | Demo
 [FlowingDrawer](https://github.com/mxn21/FlowingDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlowingDrawer.gif" width="65%">
 [WaveView](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
 [FoldableLayout](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
+[NodeFlow](https://github.com/Telenav/NodeFlow) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/NodeFlow.gif" width="49%">
