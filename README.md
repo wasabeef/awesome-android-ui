@@ -238,6 +238,7 @@ Name | License | Demo
 [LoadingDots](https://github.com/EyalBira/loading-dots) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/loading-dots.gif" width="49%">
 [ColorArcProgerssBar](https://github.com/Shinelw/ColorArcProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-ColorArcProgressBar.gif" width="49%">
 [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ArcProgressStackView.gif" width="49%"> <img src="/art/ArcProgressStackView2.gif" width="49%">
+[WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveLoadingView.jpg" width="49%">
 
 Menu
 ======================
