@@ -66,6 +66,7 @@ Name | License | Demo
 [FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
 [MaterialTextField](https://github.com/florent37/MaterialTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTextField.gif" width="49%">
 [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
+[MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) | [MIT](http://opensource.org/licenses/MIT) | <img src="https://github.com/mancj/MaterialSearchBar/blob/master/art/preview.gif" width="100%">
 
 Layout
 ======================
