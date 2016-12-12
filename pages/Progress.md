@@ -21,3 +21,4 @@ Name | License | Demo
 [ArcProgressStackView](https://github.com/GIGAMOLE/ArcProgressStackView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ArcProgressStackView.gif" width="49%"> <img src="/art/ArcProgressStackView2.gif" width="49%">
 [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveLoadingView.jpg" width="49%">
 [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CatLoadingView.gif" width="49%">
+[WaveLoading](https://github.com/race604/WaveLoading) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/race604-WaveLoading.gif" width="49%">
