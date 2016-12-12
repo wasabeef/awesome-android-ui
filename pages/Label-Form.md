@@ -19,3 +19,4 @@ Name | License | Demo
 [Material Code input](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
 [TextSurface](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
 [EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="100%">
+[Tab Digit](https://github.com/xenione/tab-digit) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tab-digit.gif" width="49%"> <img src="/art/tab-digit2.gif" width="49%">
