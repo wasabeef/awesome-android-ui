@@ -325,6 +325,7 @@ Name | License | Demo
 [SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="/art/SearchMenuAnim.gif" width="100%">
 [Cross View](https://github.com/cdflynn/crossview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/crossview.gif" width="49%"> <img src="/art/crossview2.gif" width="49%">
 [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WoWoAppIntroExample.gif" width="49%"> <img src="/art/WoWoCVExample.gif" width="49%">
+[Lottie for Android](https://github.com/airbnb/lottie-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/lottie-android.gif" width="100%"> <img src="/art/lottie-android2.gif" width="100%">
 
 Parallax
 ======================
