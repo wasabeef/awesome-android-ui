@@ -218,6 +218,7 @@ Name | License | Demo
 [Pixelate Android](https://github.com/DanielMartinus/Pixelate) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-pixelate.gif" width="49%">
 [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
 [android-anyshape](https://github.com/lankton/android-anyshape) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
+[PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
 
 SeekBar
 ======================
