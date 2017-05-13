@@ -1,16 +1,5 @@
 List of Android UI/UX Libraries
 ==================
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
-
-A curated list of awesome Android UI/UX libraries.
-
-## Other lists
-- _Looking for Core Library? Check out_ [wasabeef/awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries).
-- _Looking for iOS? Check out_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
-
-## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
-[![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan](https://github.com/ogaclejapan)
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
@@ -36,7 +25,6 @@ Material
 ======================
 Name | License | Demo
 --- | --- | ---
-[MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/MaterialDesignLibrary.png" width="100%"> <img src="/art/MaterialDesignLibrary2.png" width="49%"> <img src="/art/MaterialDesignLibrary3.png" width="49%"> <img src="/art/MaterialDesignLibrary4.png" width="49%"> <img src="/art/MaterialDesignLibrary5.png" width="49%"> <img src="/art/MaterialDesignLibrary6.png" width="49%"> <img src="/art/MaterialDesignLibrary7.png" width="49%"> <img src="/art/MaterialDesignLibrary8.png" width="49%"> <img src="/art/MaterialDesignLibrary9.png" width="49%"> <img src="/art/MaterialDesignLibrary10.png" width="49%"> <img src="/art/MaterialDesignLibrary11.png" width="49%"> <img src="/art/MaterialDesignLibrary12.png" width="49%"> <img src="/art/MaterialDesignLibrary13.png" width="49%"> <img src="/art/MaterialDesignLibrary14.png" width="49%">
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/DrawerArrowDrawable.gif)
 [MaterialTabs](https://github.com/neokree/MaterialTabs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTabs.png" width="49%"> <img src="/art/MaterialTabs2.png" width="49%"> <img src="/art/MaterialTabs3.jpeg" width="49%">
 [PagerSlidingTabStrip](https://github.com/jpardogo/PagerSlidingTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PagerSlidingTabStrip.gif" width="49%">
