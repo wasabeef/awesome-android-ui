@@ -50,13 +50,13 @@ Name | Demo
 [TileView](https://github.com/moagrius/TileView) | <img src="/art/TileView.jpeg" width="49%"> <img src="/art/TileView2.jpeg" width="49%">
 [ShowcaseView](https://github.com/amlcurran/ShowcaseView) | <img src="/art/ShowcaseView.png" width="49%"> <img src="/art/ShowcaseView2.png" width="49%">
 [Ultra Pull To Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | <img src="/art/android-Ultra-Pull-To-Refresh.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh2.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh3.gif" width="49%"> <img src="/art/android-Ultra-Pull-To-Refresh4.gif" width="49%">
-[AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | UnKnown | <img src="/art/AndroidViewHover.gif" width="49%">
+[AndroidViewHover](https://github.com/daimajia/AndroidViewHover) | <img src="/art/AndroidViewHover.gif" width="49%">
 [DraggablePanel](https://github.com/pedrovgs/DraggablePanel) | <img src="/art/DraggablePanel.gif" width="49%"> <img src="/art/DraggablePanel2.gif" width="49%">
 [Slidr](https://github.com/r0adkll/Slidr) | <img src="/art/Slidr.gif" width="49%">
 [Phoenix Pull-to-Refresh](https://github.com/Yalantis/Phoenix) | <img src="/art/Phoenix.gif" width="65%">
 [Pull-to-Refresh.Tours](https://github.com/Yalantis/Taurus) | <img src="/art/Taurus.gif" width="65%">
-[InboxLayout](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
-[SwipeBack](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
+[InboxLayout](https://github.com/zhaozhentao/InboxLayout) | <img src="/art/InboxLayout.gif" width="49%">
+[SwipeBack](https://github.com/liuguangqiang/SwipeBack) | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
 [ArcLayout](https://github.com/ogaclejapan/ArcLayout) | <img src="/art/arclayout1.gif" width="49%">
 [Dragger](https://github.com/ppamorim/Dragger) | <img src="/art/Dragger.gif" width="100%">
 [PhysicsLayout](https://github.com/Jawnnypoo/PhysicsLayout) | <img src="/art/PhysicsLayout.gif" width="49%">
@@ -93,7 +93,7 @@ List / Grid
 Name | Demo
 --- | ---
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | NONE
-[RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | UnKnown | <img src="/art/RecyclerViewSwipeDismiss.gif" width="49%">
+[RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | <img src="/art/RecyclerViewSwipeDismiss.gif" width="49%">
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | <img src="/art/recyclerview-stickyheaders.gif" width="49%">
 [discrollview](https://github.com/flavienlaurent/discrollview) | <img src="/art/discrollview.gif" width="49%">
 [DynamicGrid](https://github.com/askerov/DynamicGrid) | <img src="/art/DynamicGrid.gif" width="49%" />
@@ -126,18 +126,18 @@ Label / Form
 Name | Demo
 --- | ---
 [Shimmer-android](https://github.com/RomainPiel/Shimmer-android) | ![](/art/Shimmer-android.gif)
-[Shimmer for Android](https://github.com/facebook/shimmer-android) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | <img src="/art/shimmer-android-fb.gif" width="100%">
+[Shimmer for Android](https://github.com/facebook/shimmer-android) | <img src="/art/shimmer-android-fb.gif" width="100%">
 [Titanic](https://github.com/RomainPiel/Titanic) | <img src="/art/Titanic.gif" width="100%">
 [MatchView](https://github.com/Rogero0o/MatchView) | <img src="/art/MatchView.gif" width="49%">
 [android-autofittextview](https://github.com/grantland/android-autofittextview) | ![](/art/android-autofittextview.gif)
-[SecretTextView](https://github.com/matthewrkula/SecretTextView) | UnKnown | ![](/art/SecretTextView.gif)
+[SecretTextView](https://github.com/matthewrkula/SecretTextView) | ![](/art/SecretTextView.gif)
 [TextJustify-Android](https://github.com/bluejamesbond/TextJustify-Android) | <img src="/art/TextJustify-Android.png" width="100%"> <img src="/art/TextJustify-Android2.jpeg" width="100%">
 [RoundedLetterView](https://github.com/pavlospt/RoundedLetterView) | <img src="/art/RoundedLetterView.png" width="49%">
 [TextDrawable](https://github.com/amulyakhare/TextDrawable) | <img src="/art/TextDrawable.png" width="49%"> <img src="/art/TextDrawable2.png" width="49%">
 [BabushkaText](https://github.com/quiqueqs/BabushkaText) | <img src="/art/BabushkaText.png" width="49%">
 [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | <img src="/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText](https://github.com/wrapp/floatlabelededittext) | <img src="/art/floatlabelededittext.gif" width="49%">
-[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
+[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | NONE
 [ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | <img src="/art/ParkedTextView.gif" width="60%">
 [Material Code input](https://github.com/glomadrian/material-code-input) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
 [TextSurface](https://github.com/elevenetc/TextSurface) | <img src="/art/TextSurface.gif" width="100%">
@@ -177,8 +177,8 @@ Name | Demo
 --- | ---
 [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) | ![](/art/SmoothProgressBar.gif)
 [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | ![](/art/NumberProgressBar.gif)
-[CircleProgress](https://github.com/lzyzsd/CircleProgress) | UnKnown | <img src="/art/CircleProgress.gif" width="49%">
-[android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) | UnKnown | <img src="/art/android-square-progressbar.png" width="49%"> <img src="/art/android-square-progressbar2.png" width="49%"> <img src="/art/android-square-progressbar3.png" width="49%">
+[CircleProgress](https://github.com/lzyzsd/CircleProgress) | <img src="/art/CircleProgress.gif" width="49%">
+[android-square-progressbar](https://github.com/mrwonderman/android-square-progressbar) | <img src="/art/android-square-progressbar.png" width="49%"> <img src="/art/android-square-progressbar2.png" width="49%"> <img src="/art/android-square-progressbar3.png" width="49%">
 [GoogleProgressBar](https://github.com/jpardogo/GoogleProgressBar) | <img src="/art/GoogleProgressBar.gif" width="32%"> <img src="/art/GoogleProgressBar2.gif" width="32%"> <img src="/art/GoogleProgressBar3.gif" width="32%">
 [Android-RoundCornerProgressBar](https://github.com/akexorcist/Android-RoundCornerProgressBar) | <img src="/art/Android-RoundCornerProgressBar.png" width="100%"> <img src="/art/Android-RoundCornerProgressBar2.png" width="100%">
 [ElasticDownload](https://github.com/Tibolte/ElasticDownload) | <img src="/art/ElasticDownload.gif" width="49%"> <img src="/art/ElasticDownload2.gif" width="49%">
@@ -226,9 +226,9 @@ Name | Demo
 [android-betterpickers](https://github.com/code-troopers/android-betterpickers) | ![](/art/android-betterpickers.png)
 [Android-Week-View](https://github.com/alamkanak/Android-Week-View) | ![](/art/Android-Week-View.png)
 [SilkCal](https://github.com/NLMartian/SilkCal) | <img src="/art/SilkCat.gif" width="49%">
-[SublimePicker](https://github.com/vikramkakkar/SublimePicker) |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/sublimePicker_date.png" width="49%">  <img src="/art/sublimePicker_time.png" width="49%"> <img src="/art/sublimePicker_repeat.png" width="49%">
-[MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) |  [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/MaterialDateTimePicker_date.png" width="49%">  <img src="/art/MaterialDateTimePicker_time.png" width="49%">
-[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView) |  [MIT](http://opensource.org/licenses/MIT) |  <img src="/art/compact-calendar-demo.gif" width="49%">
+[SublimePicker](https://github.com/vikramkakkar/SublimePicker) |  <img src="/art/sublimePicker_date.png" width="49%">  <img src="/art/sublimePicker_time.png" width="49%"> <img src="/art/sublimePicker_repeat.png" width="49%">
+[MaterialDateTimePicker](https://github.com/wdullaer/MaterialDateTimePicker) |  <img src="/art/MaterialDateTimePicker_date.png" width="49%">  <img src="/art/MaterialDateTimePicker_time.png" width="49%">
+[CompactCalendarView](https://github.com/SundeepK/CompactCalendarView) |  <img src="/art/compact-calendar-demo.gif" width="49%">
 
 Graph
 ======================
@@ -251,14 +251,14 @@ Name | Demo
 [android-flip](https://github.com/openaphid/android-flip) | <img src="/art/android-flip.gif" width="49%"> <img src="/art/android-flip2.gif" width="49%">
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | <img src="/art/FragmentTransactionExtended.gif" width="49%"> <img src="/art/FragmentTransactionExtended2.gif" width="49%">
 [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) | <img src="/art/KenBurnsView.gif" width="49%">
-[rebound](https://github.com/facebook/rebound) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | http://facebook.github.io/rebound/
+[rebound](https://github.com/facebook/rebound) | http://facebook.github.io/rebound/
 [Reachability](https://github.com/sakebook/Reachability) | <img src="/art/Reachability.gif" width="49%">
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
-[EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | UnKnown | <img src="/art/EasyAndroidAnimations.gif" width="49%">
+[EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | <img src="/art/EasyAndroidAnimations.gif" width="49%">
 [android-pathview](https://github.com/geftimov/android-pathview) | <img src="/art/android-pathview.gif" width="49%">
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | <img src="/art/ViewRevealAnimator.gif" width="49%">
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | <img src="/art/ArcAnimator.gif" width="49%"> <img src="/art/ArcAnimator2.gif" width="49%">
-[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | UnKnown | <img src="/art/SearchMenuAnim.gif" width="100%">
+[SearchMenuAnim](https://github.com/kongnanlive/SearchMenuAnim) | <img src="/art/SearchMenuAnim.gif" width="100%">
 [Cross View](https://github.com/cdflynn/crossview) | <img src="/art/crossview.gif" width="49%"> <img src="/art/crossview2.gif" width="49%">
 [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | <img src="/art/WoWoAppIntroExample.gif" width="49%"> <img src="/art/WoWoCVExample.gif" width="49%">
 [Lottie for Android](https://github.com/airbnb/lottie-android) | <img src="/art/lottie-android.gif" width="100%"> <img src="/art/lottie-android2.gif" width="100%">
@@ -281,12 +281,12 @@ Name | Demo
 --- | ---
 [Swipecards](https://github.com/Diolor/Swipecards) | <img src="/art/Swipecards.gif" width="49%">
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | <img src="/art/Android-Bootstrap.png" width="49%">
-[Android PDFView](https://github.com/JoanZapata/android-pdfview) | [GPL V3](http://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
+[Android PDFView](https://github.com/JoanZapata/android-pdfview) | <img src="/art/android-pdfview.png" width="100%">
 [Dspec](https://github.com/lucasr/dspec) | <img src="/art/dspec.png" width="100%">
 [LolliPin](https://github.com/OrangeGangsters/LolliPin) | <img src="/art/LolliPin.gif" width="49%">
 [DrawableView](https://github.com/PaNaVTEC/DrawableView) | <img src="/art/DrawableView.gif" width="49%">
 [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | <img src="/art/android-materialshadowninepatch.png" width="49%">
-[SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | [Apache License v2](https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/LICENSE) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
+[SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
 [Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [EasyFonts](https://github.com/vsvankhede/easyfonts) |  <img src="/art/easyfonts.png" width="100%">
 [Android Sliding Activity Library](https://github.com/klinker41/android-slidingactivity) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">
