@@ -243,7 +243,7 @@ Name | License | Demo
 Animation
 ======================
 Name | License | Demo
---- | --- | --- | ---
+--- | --- | ---
 [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/androidviewanimations.gif" width="49%">
 [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidImageSlider.gif" width="49%">
 [transitions-everywhere](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/transitions-everywhere.gif)
