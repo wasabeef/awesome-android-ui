@@ -68,6 +68,7 @@ Name | License | Demo
 [MaterialDateRangePicker](https://github.com/borax12/MaterialDateRangePicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDateRangePicker.png" width="49%"> <img src="/art/MaterialDateRangePicker2.png" width="49%">
 [TapTargetView](https://github.com/KeepSafe/TapTargetView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TapTargetView.gif" width="49%">
 [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
+[MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/MaterialShadows.png" いwidth="100%"> <img src="/art/MaterialShadows.png" width="100%">
 
 Layout
 ======================
