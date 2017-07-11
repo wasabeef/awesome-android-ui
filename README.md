@@ -158,6 +158,7 @@ Name | License | Demo
 [Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
 [Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
 [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
+[android-list-manager](https://github.com/edsilfer/android-list-manager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/edsilfer/android-list-manager/blob/master/art/img_art_01.png" width="49%">
 
 ViewPager
 ======================
