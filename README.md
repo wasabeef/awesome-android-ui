@@ -131,6 +131,7 @@ Name | License | Demo
 --- | --- | ---
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | UnKnown | <img src="/art/RecyclerViewSwipeDismiss.gif" width="49%">
+[MultiSnapRecyclerView](https://github.com/TakuSemba/MultiSnapRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gravity.gif" width="49%"> <img src="/art/snap_count.gif" width="49%">
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlabbyListView.gif" width="49%"> <img src="/art/FlabbyListView2.gif" width="49%">
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/recyclerview-stickyheaders.gif" width="49%">
 [ParallaxListView](https://github.com/Gnod/ParallaxListView) | UnKnown | <img src="/art/ParallaxListView.gif" width="49%">
