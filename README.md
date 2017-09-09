@@ -163,6 +163,7 @@ ViewPager
 ======================
 Name | License | Demo
 --- | --- | ---
+[GravityView](https://github.com/gofynd/gravity-view) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GravityView.gif" width="65%"> 
 [ParallaxPagerTransformer](https://github.com/xgc1986/ParallaxPagerTransformer) | UnKnown | <img src="/art/ParallaxPagerTransformer.gif" width="49%">
 [ViewPagerTransforms](https://github.com/ToxicBakery/ViewPagerTransforms) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewPagerTransforms.gif" width="49%">
 [CircleIndicator](https://github.com/ongakuer/CircleIndicator) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/CircleIndicator.gif" width="49%">
@@ -376,4 +377,3 @@ Name | License | Demo
 [StatusBarUtil](https://github.com/laobie/StatusBarUtil) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StatusBarUtil.png" width="100%">
 [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">
 [Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
-[Konfetti](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">
