@@ -5,3 +5,4 @@ Name | License | Demo
 [DiscreteSeekBar](https://github.com/AnderWeb/discreteSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/discreteseekbar.gif) ![](/art/discreteseekbar2.gif)
 [SeekBarCompat](https://github.com/ahmedrizwan/SeekBarCompat) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/seekbarcompat.gif) 
 [PreviewSeekBar](https://github.com/rubensousa/PreviewSeekBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/PreviewSeekBar.gif)
+[Croller](https://github.com/harjot-oberai/Croller) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](https://github.com/harjot-oberai/Croller/raw/master/screens/croller_attributes.png)
