@@ -377,3 +377,4 @@ Name | License | Demo
 [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Horizon.png" width="100%">
 [Stepper Touch](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
 [Konfetti](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">
+[Slide To Act](https://github.com/cortinico/slidetoact) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/slidetoact1.gif" width="100%"> <img src="/art/slidetoact2.png" width="49%">
