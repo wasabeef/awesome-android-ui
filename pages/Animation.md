@@ -23,3 +23,4 @@ Name | License | Demo
 [Lottie for Android](https://github.com/airbnb/lottie-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/lottie-android.gif" width="100%"> <img src="/art/lottie-android2.gif" width="100%">
 [RichPath](https://github.com/tarek360/RichPath) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RichPath.gif" width="33%">
 [Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FerrisWheelView.gif" width="62%">
+[AndroidSmartAnimations](https://github.com/ratty3697/android-smart-animation-library) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/androidsmartanimations.gif" width="49%">
