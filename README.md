@@ -69,6 +69,7 @@ Name | License | Demo
 [Spotlight](https://github.com/TakuSemba/Spotlight) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/spotlight.gif" width="49%"> <img src="/art/spotlight2.gif" width="49%">
 [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
 [MaterialShadows](https://github.com/harjot-oberai/MaterialShadows) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialShadows.png" いwidth="100%"> <img src="/art/MaterialShadows.png" width="100%">
+[MaterialPlayPauseDrawble](https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/DreaminginCodeZH/MaterialPlayPauseDrawble/blob/master/preview/sample.gif" width="49%">
 
 Layout
 ======================
