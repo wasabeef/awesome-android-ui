@@ -122,6 +122,7 @@ Name | License | Demo
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-flat-button.gif" width="49%">
 [MovingButton](https://github.com/TheFinestArtist/MovingButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/MovingButton.gif" width="49%">
 [LabelView](https://github.com/linger1216/labelview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/linger1216/labelview/blob/master/img/img1.png" width="49%">
+[AndroidButtonProgress](https://github.com/abdularis/AndroidButtonProgress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![demo](https://github.com/abdularis/AndroidButtonProgress/raw/master/screenshot/demo.gif)
 
 List / Grid
 ======================
@@ -207,6 +208,7 @@ Image
 ======================
 Name | License | Demo
 --- | --- | ---
+[ParallaxImageView](https://github.com/abdularis/ParallaxImageView) | [MIT](http://opensource.org/licenses/MIT) | ![Preview](https://github.com/abdularis/ParallaxImageView/raw/master/screenshots/screenshot_1.gif)
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE) | NONE
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircleImageView.png" width="49%">
 [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-shape-imageview.png" width="49%"> <img src="/art/android-shape-imageview2.png" width="49%">
