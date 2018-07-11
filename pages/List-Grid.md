@@ -2,6 +2,8 @@ List / Grid
 ======================
 Name | License | Demo
 --- | --- | ---
+[HeaderFooterEmptyRecyclerView](https://github.com/miladheydari/HeaderFooterEmptyRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | android RecyclerView support Header Footer and Empty list
+
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | UnKnown | <img src="/art/RecyclerViewSwipeDismiss.gif" width="49%">
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlabbyListView.gif" width="49%"> <img src="/art/FlabbyListView2.gif" width="49%">
