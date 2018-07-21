@@ -21,3 +21,4 @@ Name | License | Demo
 [EmailAutoCompleteTextView](https://github.com/tasomaniac/EmailAutoCompleteTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EmailAutoCompleteTextView.gif" width="60%">
 [Tab Digit](https://github.com/xenione/tab-digit) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tab-digit.gif" width="49%"> <img src="/art/tab-digit2.gif" width="49%">
 [RotatingText](https://github.com/sdsmdg/RotatingText) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/RotatingText.gif" width="100%">
+[PinEditTextField](https://github.com/poovamraj/PinEditTextField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PinEditTextField.gif" width="100%">
