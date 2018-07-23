@@ -209,7 +209,7 @@ Image
 ======================
 Name | License | Demo
 --- | --- | ---
-[BubblingImageView](https://github.com/54LiNKeR/BubblingImageView) | [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)<img src="/art/BubblingImageView.gif" width="49%">
+[BubblingImageView](https://github.com/54LiNKeR/BubblingImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)<img src="/art/BubblingImageView.gif" width="49%">
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE) | NONE
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircleImageView.png" width="49%">
 [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-shape-imageview.png" width="49%"> <img src="/art/android-shape-imageview2.png" width="49%">
@@ -360,6 +360,7 @@ Other
 ======================
 Name | License | Demo
 --- | --- | ---
+[TetrisView](https://github.com/54LiNKeR/TetrisView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)<img src="/artTetrisView.png" width="49%">
 [Swipecards](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Swipecards.gif" width="49%">
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/Android-Bootstrap.png" width="49%">
 [Android PDFView](https://github.com/JoanZapata/android-pdfview) | [GPL V3](https://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
