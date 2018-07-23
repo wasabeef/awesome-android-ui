@@ -2,6 +2,7 @@ Image
 ======================
 Name | License | Demo
 --- | --- | ---
+[BubblingImageView](https://github.com/54LiNKeR/BubblingImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BubblingImageView.gif" width="49%">
 [TouchImageView](https://github.com/MikeOrtiz/TouchImageView) | [LICENSE](https://raw.githubusercontent.com/MikeOrtiz/TouchImageView/master/LICENSE) | NONE
 [CircleImageView](https://github.com/hdodenhof/CircleImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircleImageView.png" width="49%">
 [android-shape-imageview](https://github.com/siyamed/android-shape-imageview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-shape-imageview.png" width="49%"> <img src="/art/android-shape-imageview2.png" width="49%">
