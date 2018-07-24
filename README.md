@@ -360,7 +360,7 @@ Other
 ======================
 Name | License | Demo
 --- | --- | ---
-[TetrisView](https://github.com/54LiNKeR/TetrisView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/artTetrisView0.png" width="49%"><img src="/artTetrisView1.png" width="49%">
+[TetrisView](https://github.com/54LiNKeR/TetrisView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TetrisView0.png" width="49%"><img src="/art/TetrisView1.png" width="49%">
 [Swipecards](https://github.com/Diolor/Swipecards) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Swipecards.gif" width="49%">
 [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/Android-Bootstrap.png" width="49%">
 [Android PDFView](https://github.com/JoanZapata/android-pdfview) | [GPL V3](https://opensource.org/licenses/GPL-3.0) | <img src="/art/android-pdfview.png" width="100%">
