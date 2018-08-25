@@ -44,7 +44,7 @@ Name | License | Demo
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](https://opensource.org/licenses/MIT) | ![](/art/RippleEffect.gif)
 [LDrawer](https://github.com/keklikhasan/LDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LDrawer.gif" width="49%">
 [material-design-icons](https://github.com/google/material-design-icons) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-design-icons.png)
-[AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | UnKnown | <img src="/art/AndroidMaterialDesignToolbar.gif" width="49%">
+[AndroidMaterialDesignToolbar](https://github.com/tekinarslan/AndroidMaterialDesignToolbar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidMaterialDesignToolbar.gif" width="49%">
 [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/MaterialEditText.png)
 [material-menu](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-menu.gif) ![](/art/material-menu2.gif)
 [material-dialogs](https://github.com/afollestad/material-dialogs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-dialogs.webp) ![](/art/material-dialogs2.webp) ![](/art/material-dialogs3.webp)
