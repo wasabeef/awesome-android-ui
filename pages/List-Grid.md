@@ -3,6 +3,7 @@ List / Grid
 Name | License | Demo
 --- | --- | ---
 [SuperRecyclerView](https://github.com/Malinskiy/SuperRecyclerView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
+[RecyclerView Drag Swipe Rearrange](https://github.com/UdayaLakmal/Android_RecyclerView_Drag_Swipe) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://media.giphy.com/media/69zK7TUzo9DObCFfmV/giphy.gif" width="49%"> <img src="https://media.giphy.com/media/3pAVKNyMcRegmqyd8I/giphy.gif" width="49%">
 [RecyclerViewSwipeDismiss](https://github.com/CodeFalling/RecyclerViewSwipeDismiss) | UnKnown | <img src="/art/RecyclerViewSwipeDismiss.gif" width="49%">
 [FlabbyListView](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlabbyListView.gif" width="49%"> <img src="/art/FlabbyListView2.gif" width="49%">
 [recyclerview-stickyheaders](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/recyclerview-stickyheaders.gif" width="49%">
