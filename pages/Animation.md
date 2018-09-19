@@ -13,7 +13,7 @@ Name | License | Demo
 [rebound](https://github.com/facebook/rebound) | [BSD 2 License](https://opensource.org/licenses/BSD-2-Clause) | http://facebook.github.io/rebound/
 [Reachability](https://github.com/sakebook/Reachability) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Reachability.gif" width="49%">
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
-[EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | UnKnown | <img src="/art/EasyAndroidAnimations.gif" width="49%">
+[EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EasyAndroidAnimations.gif" width="49%">
 [android-pathview](https://github.com/geftimov/android-pathview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-pathview.gif" width="49%">
 [ViewRevealAnimator](https://github.com/sephiroth74/ViewRevealAnimator) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ViewRevealAnimator.gif" width="49%">
 [ArcAnimator](https://github.com/asyl/ArcAnimator) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ArcAnimator.gif" width="49%"> <img src="/art/ArcAnimator2.gif" width="49%">
