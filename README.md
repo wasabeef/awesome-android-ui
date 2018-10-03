@@ -55,7 +55,7 @@ Name | License | Demo
 [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
 [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-floating-action-button.gif" width="49%"> <img src="/art/android-floating-action-button.png" width="49%">
 [MaterialSheetFab](https://github.com/gowong/material-sheet-fab) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialSheetFab.gif" width="49%">
-[CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircularReveal.gif" width="49%">
+[CircularReveal](https://github.com/ozodrukh/CircularReveal) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/CircularReveal.gif" width="49%">
 [material-range-bar](https://github.com/oli107/material-range-bar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-range-bar.png" width="49%"> <img src="/art/material-range-bar2.png" width="49%">
 [Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
 [Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
@@ -118,8 +118,8 @@ Button
 ======================
 Name | License | Demo
 --- | --- | ---
-[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/circular-progress-button.gif" width="49%">
-[android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-process-button.gif" width="75%"> <img src="/art/android-process-button2.gif" width="75%">
+[circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/circular-progress-button.gif" width="49%">
+[android-process-button](https://github.com/dmytrodanylyk/android-process-button) | [MIT](https://opensource.org/licenses/MIT)) | <img src="/art/android-process-button.gif" width="75%"> <img src="/art/android-process-button2.gif" width="75%">
 [android-circlebutton](https://github.com/markushi/android-circlebutton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-circlebutton.gif)
 [android-flat-button](https://github.com/hoang8f/android-flat-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-flat-button.gif" width="49%">
 [MovingButton](https://github.com/TheFinestArtist/MovingButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MovingButton.gif" width="49%">
@@ -156,7 +156,7 @@ Name | License | Demo
 [RecyclerItemDecoration](https://github.com/magiepooh/RecyclerItemDecoration) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/recycler-itemdecoration1.gif" width="49%"> <img src="/art/recycler-itemdecoration2.gif" width="49%">
 [MaterialRecents](https://github.com/ZieIony/MaterialRecents) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialRecents.gif" width="49%">
 [Dividers](https://github.com/Karumi/Dividers) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dividers.gif" width="49%">
-[Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
+[Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
 [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
 
 ViewPager
