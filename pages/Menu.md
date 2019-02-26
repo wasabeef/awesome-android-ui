@@ -10,3 +10,4 @@ Name | License | Demo
 [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GuillotineMenu-Android.gif" width="100%">
 [android-snake-menu](https://github.com/xmuSistone/android-snake-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-snake-menu.gif" width="49%">
 [BoomMenu](https://github.com/Nightonke/BoomMenu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BoomMenu.gif" width="49%"> <img src="/art/BoomMenu2.gif" width="49%">
+[Pager](https://github.com/Pradyuman7/Pager) | [GNU GENERAL PUBLIC LICENSE V3](https://github.com/Pradyuman7/Pager/blob/master/LICENSE.md) | <img width="300" height="550" src="https://user-images.githubusercontent.com/41565823/52993954-3edb6000-3416-11e9-94ef-bf9578abfe7f.gif">
