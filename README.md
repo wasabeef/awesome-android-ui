@@ -256,6 +256,7 @@ Name | License | Demo
 [WaveLoadingView](https://github.com/tangqi92/WaveLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WaveLoadingView.jpg" width="49%">
 [CatLoadingView](https://github.com/Rogero0o/CatLoadingView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/CatLoadingView.gif" width="49%">
 [WaveLoading](https://github.com/race604/WaveLoading) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/race604-WaveLoading.gif" width="60%">
+[Skeleton-Bones](https://github.com/EudyContreras/Skeleton-Bones) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://github.com/EudyContreras/Skeleton-Bones/blob/master/media/gifs/demo_full_day.gif" width="50%"><img src="https://github.com/EudyContreras/Skeleton-Bones/blob/master/media/gifs/demo_full_night.gif" width="50%">
 
 Menu
 ======================
