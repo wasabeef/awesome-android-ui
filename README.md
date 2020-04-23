@@ -113,6 +113,7 @@ Name | License | Demo
 [Vorolay](https://github.com/Quatja/Vorolay) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Vorolay.png" width="49%"> <img src="/art/Vorolay2.png" width="49%">
 [Hover](https://github.com/google/hover) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/hover.gif" width="49%">
 [FerrisWheel](https://github.com/iglaweb/Ferris-Wheel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FerrisWheelView.gif" width="62%">
+[TagSphereView](https://github.com/magic-goop/tag-sphere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/tagSphereView.gif" width="49%"> <img src="/art/tagSphereView1.gif" width="49%">
 
 Button
 ======================
