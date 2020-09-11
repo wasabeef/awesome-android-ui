@@ -9,7 +9,7 @@ A curated list of awesome Android UI/UX libraries.
 
 
 **I'm looking for someone to co-maintainer this awesome-android-ui.**  
-![Twitter URL](https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fwasabeef_jp)
+<a href="https://twitter.com/wasabeef_jp"><img src="https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https://twitter.com/wasabeef_jp"></a>
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
