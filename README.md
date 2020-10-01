@@ -8,7 +8,7 @@ A curated list of awesome Android UI/UX libraries.
 [![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
 
 
-**I'm looking for someone to co-maintainer this awesome-android-ui.**  
+**I'm looking for someone to co-maintain this awesome-android-ui.**  
 <a href="https://twitter.com/wasabeef_jp"><img src="https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https://twitter.com/wasabeef_jp"></a>
 
 ## Index `(light-weight pages)`
