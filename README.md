@@ -5,10 +5,10 @@ List of Android UI/UX Libraries
 A curated list of awesome Android UI/UX libraries.
 
 ## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
+[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)
 
 
-**I'm looking for someone to co-maintainer this awesome-android-ui.**  
+**I'm looking for someone to co-maintainer this awesome-android-ui.**
 <a href="https://twitter.com/wasabeef_jp"><img src="https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https://twitter.com/wasabeef_jp"></a>
 
 ## Index `(light-weight pages)`
@@ -221,7 +221,6 @@ Name | License | Demo
 [CropImageView](https://github.com/cesards/CropImageView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CropImageView.png" width="100%">
 [BitmapMerger](https://github.com/sharish/BitmapMerger) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/BitmapMerger.gif" width="49%"> <img src="/art/BitmapMerger2.gif" width="49%">
 [Scrolling Image View](https://github.com/Q42/AndroidScrollingImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/AndroidScrollingImageView.gif" width="100%">
-[Pixelate Android](https://github.com/DanielMartinus/Pixelate) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-pixelate.gif" width="49%">
 [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
 [android-anyshape](https://github.com/lankton/android-anyshape) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
