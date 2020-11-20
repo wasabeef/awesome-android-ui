@@ -5,11 +5,14 @@ List of Android UI/UX Libraries
 A curated list of awesome Android UI/UX libraries.
 
 ## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef](https://github.com/wasabeef)  
-
-
-**I'm looking for someone to co-maintainer this awesome-android-ui.**  
-<a href="https://twitter.com/wasabeef_jp"><img src="https://img.shields.io/twitter/url?label=DM%20on%20Twitter&style=social&url=https://twitter.com/wasabeef_jp"></a>
+<p>
+  <a href="https://github.com/wasabeef">
+    <img src="https://avatars1.githubusercontent.com/u/1833474?s=48" />
+  </a>
+  <a href="https://github.com/pgreze">
+    <img src="https://avatars3.githubusercontent.com/u/14812354?s=48" />
+  </a>
+</p>
 
 ## Index `(light-weight pages)`
 * [Material](pages/Material.md)
