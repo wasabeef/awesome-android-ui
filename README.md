@@ -346,6 +346,9 @@ Name | License | Demo
 [WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/WoWoAppIntroExample.gif" width="49%"> <img src="/art/WoWoCVExample.gif" width="49%">
 [Lottie for Android](https://github.com/airbnb/lottie-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/lottie-android.gif" width="100%"> <img src="/art/lottie-android2.gif" width="100%">
 [RichPath](https://github.com/tarek360/RichPath) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RichPath.gif" width="33%">
+[RubberPicker](https://github.com/Chrisvin/RubberPicker) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://github.com/Chrisvin/RubberPicker/raw/master/RubberPicker-Demo.gif" width="33%">
+
+
 
 Parallax
 ======================
