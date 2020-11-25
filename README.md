@@ -229,6 +229,7 @@ Name | License | Demo
 [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
 [android-anyshape](https://github.com/lankton/android-anyshape) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
+[ChiliPhotoPicker](https://github.com/ChiliLabs/ChiliPhotoPicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ChiliPhotoPicker.gif" width="49%">
 [Android Ribbon](https://github.com/skydoves/AndroidRibbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/51105497-7873e680-182c-11e9-954a-1bf767d15312.gif" align="center" width="32%"/>
 
 SeekBar
