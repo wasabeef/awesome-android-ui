@@ -17,3 +17,4 @@ Name | License | Demo
 [SimpleCropView](https://github.com/IsseiAoki/SimpleCropView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/SimpleCropView.gif" width="49%">
 [android-anyshape](https://github.com/lankton/android-anyshape) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-anyshape.jpg" width="49%"> <img src="/art/android-anyshape2.jpg" width="49%">
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
+[ChiliPhotoPicker](https://github.com/ChiliLabs/ChiliPhotoPicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ChiliPhotoPicker.gif" width="49%">
