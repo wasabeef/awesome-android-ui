@@ -188,6 +188,7 @@ Name | License | Demo
 [NavigationTabStrip](https://github.com/Devlight/NavigationTabStrip) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](https://opensource.org/licenses/MIT) | <img src="/art/NavigationTabStrip.gif" width="49%" />
 [NavigationTabBar](https://github.com/Devlight/NavigationTabBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) & [MIT](https://opensource.org/licenses/MIT) | <img src="/art/NavigationTabBar.gif" width="49%" /> <img src="/art/NavigationTabBar2.gif" width="49%" />
 [UltraViewPager](https://github.com/alibaba/UltraViewPager) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/UltraViewPager.gif" width="49%"> <img src="/art/UltraViewPager2.gif" width="49%"> <img src="/art/UltraViewPager3.gif" width="49%"> <img src="/art/UltraViewPager4.gif" width="49%">
+[SnapTablayout](https://github.com/nirukk52/SnapTabLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SnapTablayout3.gif" width="49%"> <img src="/art/SnapTablayout5.gif" width="49%">
 
 Label / Form
 ======================
