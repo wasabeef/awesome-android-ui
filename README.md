@@ -14,7 +14,7 @@ A curated list of awesome Android UI/UX libraries.
   </a>
 </p>
 
-## Index `(light-weight pages)`
+## Index
 * [Jetpack Compose](#Jetpack-Compose)
 * [Layout](#Layout)
 * [Button](#Button)
