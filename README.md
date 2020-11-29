@@ -274,6 +274,7 @@ Name | License | Demo
 [ExpandableBottomBar](https://github.com/st235/ExpandableBottomBar) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/expandable-bottom-bar.gif" width="100%">
 [material-menu](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-menu.gif) ![](/art/material-menu2.gif)
 [MaterialSheetFab](https://github.com/gowong/material-sheet-fab) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialSheetFab.gif" width="49%">
+[PowerMenu](https://github.com/skydoves/powermenu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/63956079-c0e0cb80-cac0-11e9-82ca-4397ca1f3750.gif" width="49%"> <img src="https://user-images.githubusercontent.com/24237865/63956377-42385e00-cac1-11e9-9639-81eac4b7511f.jpg" width="49%">
 
 ActionBar
 ======================
@@ -403,3 +404,6 @@ Name | License | Demo
 [Material Icon Library](https://github.com/code-mc/material-icon-lib) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-icon-lib.gif" width="100%">
 [Carbon](https://github.com/ZieIony/Carbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | NONE
 [Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
+[Balloon(tooltips)](https://github.com/skydoves/Balloon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/61194943-f9d70380-a6ff-11e9-807f-ba1ca8126f8a.gif" width="49%"> <img src="https://user-images.githubusercontent.com/24237865/61225579-d346b600-a75b-11e9-84f8-3c06047b5003.gif" width="49%">
+[ColorPickerView](https://github.com/skydoves/colorpickerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art0.gif" width="49%"> <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art1.gif" width="49%">
+
