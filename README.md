@@ -42,6 +42,7 @@ Name | License | Demo
 [Orchestra](https://github.com/skydoves/Orchestra) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/61194943-f9d70380-a6ff-11e9-807f-ba1ca8126f8a.gif" width="46%"> <img src="https://user-images.githubusercontent.com/24237865/95007367-d58b7d80-0649-11eb-857b-9e0187be70d1.gif" width="44%">
 [compose-backstack](https://github.com/zach-klippenstein/compose-backstack) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/zach-klippenstein/compose-backstack/blob/main/.images/inspector.gif" width="49%">
 [ComposeClock](https://github.com/adibfara/ComposeClock) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/adibfara/ComposeClock/blob/master/demo.gif" width="49%">
+[ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif" width="46%"> <img src="https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif" width="46%">
 
 Layout
 ======================
