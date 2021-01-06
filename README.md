@@ -277,6 +277,7 @@ Name | License | Demo
 [material-menu](https://github.com/balysv/material-menu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-menu.gif) ![](/art/material-menu2.gif)
 [MaterialSheetFab](https://github.com/gowong/material-sheet-fab) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/MaterialSheetFab.gif" width="49%">
 [PowerMenu](https://github.com/skydoves/powermenu) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/63956079-c0e0cb80-cac0-11e9-82ca-4397ca1f3750.gif" width="49%"> <img src="https://user-images.githubusercontent.com/24237865/63956377-42385e00-cac1-11e9-9639-81eac4b7511f.jpg" width="49%">
+[AnimatedBottomBar](https://github.com/Droppers/AnimatedBottomBar) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/AnimatedBottomBar-1.gif" width="50%"><img src="/art/AnimatedBottomBar-2.gif" width="50%">
 
 ActionBar
 ======================
