@@ -375,6 +375,7 @@ Name | License | Demo
 [ExpandableLayout (by skydoves)](https://github.com/skydoves/ExpandableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableLayout2_1.gif" width="49%"> <img src="/art/ExpandableLayout2_2.gif" width="49%">[ShineButton](https://github.com/ChadCSong/ShineButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ShineButton.gif" width="100%">
 [Elastic Views](https://github.com/skydoves/ElasticViews) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://user-images.githubusercontent.com/24237865/72123075-73943500-33a3-11ea-883f-9009de998788.gif" width="32%">
 [Transformation Layout](https://github.com/skydoves/TransformationLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/TransformationLayout.gif" width="32%">
+[IridescentView](https://github.com/alexandrehtrb/IridescentView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/alexandrehtrb/IridescentView/master/iridescent_star_mini.gif" width="100%">
 
 
 Other
