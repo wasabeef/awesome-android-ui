@@ -376,7 +376,7 @@ Name | License | Demo
 [Elastic Views](https://github.com/skydoves/ElasticViews) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://user-images.githubusercontent.com/24237865/72123075-73943500-33a3-11ea-883f-9009de998788.gif" width="32%">
 [Transformation Layout](https://github.com/skydoves/TransformationLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="art/TransformationLayout.gif" width="32%">
 [IridescentView](https://github.com/alexandrehtrb/IridescentView) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/alexandrehtrb/IridescentView/master/iridescent_star_mini.gif" width="100%">
-
+[DashedView](https://github.com/MackHartley/DashedView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/10659285/119430672-cccde180-bcd6-11eb-8c70-9342ae486944.png" width="50%">
 
 Other
 ======================
