@@ -116,6 +116,7 @@ Name | License | Demo
 [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
 [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-floating-action-button.gif" width="49%"> <img src="/art/android-floating-action-button.png" width="49%">
 [ReactButton](https://github.com/amrdeveloper/ReactButton) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/AmrDeveloper/ReactButton/master/screenshots/facebook_reacts_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/AmrDeveloper/ReactButton/master/screenshots/dc_reacts_demo.gif" width="49%">
+[Quantitizer](https://github.com/kojofosu/Quantitizer) | [MIT](https://opensource.org/licenses/MIT) |  <img src="https://user-images.githubusercontent.com/20203694/127779360-39fbcba6-ab72-4897-88ef-59573a005144.gif" width="49%"> <img src="https://user-images.githubusercontent.com/20203694/127779355-c046c8fc-6b95-49f3-b018-5ba6ac38f568.gif" width="49%">
 
 List / Grid
 ======================
