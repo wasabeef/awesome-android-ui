@@ -301,6 +301,7 @@ Name | License | Demo
 [MaterialDialog](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDialog.png" width="49%"> <img src="/art/MaterialDialog2.png" width="49%">
 [material-dialogs](https://github.com/afollestad/material-dialogs) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/material-dialogs.webp) ![](/art/material-dialogs2.webp) ![](/art/material-dialogs3.webp)
 [AlertDialogPro](https://github.com/fengdai/AlertDialogPro) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AlertDialogPro.png" width="49%"> <img src="/art/AlertDialogPro2.png" width="49%"> <img src="/art/AlertDialogPro3.png" width="49%"> <img src="/art/AlertDialogPro4.png" width="49%">
+[LottieDialog](https://github.com/amrdeveloper/LottieDialog) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/AmrDeveloper/lottiedialog/master/media/photo_dialog.gif" width="49%"> <img src="https://raw.githubusercontent.com/AmrDeveloper/lottiedialog/master/media/no_internet_dialog.gif" width="49%">
 
 Calendar
 ======================
