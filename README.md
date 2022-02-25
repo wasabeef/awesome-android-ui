@@ -45,6 +45,7 @@ Name | License | Demo
 [ComposeClock](https://github.com/adibfara/ComposeClock) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/adibfara/ComposeClock/blob/master/demo.gif" width="49%">
 [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif" width="46%"> <img src="https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif" width="46%">
 [Compose Neumorphism UI](https://github.com/CuriousNikhil/neumorphic-compose) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/CuriousNikhil/neumorphic-compose/blob/main/static/complete_screen.png?raw=true" height=400>
+[heart-switch](https://github.com/popovanton0/heart-switch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/popovanton0/heart-switch/blob/main/images/hero.gif?raw=true" width=65%>
 
 Layout
 ======================
