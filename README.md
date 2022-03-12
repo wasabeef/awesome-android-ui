@@ -54,6 +54,7 @@ Name | License | Demo
 [ResideLayout](https://github.com/kyze8439690/ResideLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ResideLayout.gif" width="49%">
 [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/AndroidSwipeLayout.gif" width="49%"> <img src="/art/AndroidSwipeLayout2.gif" width="49%">
 [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/SwipeBackLayout.webp" width="49%"> <img src="/art/SwipeBackLayout2.webp" width="49%">
+[StoriesProgressView](https://github.com/shts/StoriesProgressView) | [Apache License V2](http://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/shts/StoriesProgressView/blob/master/image/image.gif" width="49%">
 [Maskable Layout](https://github.com/christophesmet/android_maskable_layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android_maskable_layout.gif" width="49%">
 [ExpandableLayout](https://github.com/traex/ExpandableLayout) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ExpandableLayout.gif" width="49%">
 [android-PullRefreshLayout](https://github.com/baoyongzhang/android-PullRefreshLayout) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-PullRefreshLayout.gif" width="49%">
