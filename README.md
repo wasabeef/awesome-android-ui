@@ -151,6 +151,7 @@ Name | License | Demo
 [Drag Select Recycler View](https://github.com/afollestad/drag-select-recyclerview) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/drag-select-recyclerview.gif" width="49%" />
 [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/sticky-headers-recyclerview.gif" width="49%">
 [Kiel - Declarative RecyclerView Adapters](https://github.com/ibrahimyilmaz/kiel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/kiel.png">
+[TreeView](https://github.com/amrdeveloper/treeview) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://raw.githubusercontent.com/AmrDeveloper/treeview/master/media/treeview_files_demo.gif" width="49%"> <img src="https://raw.githubusercontent.com/AmrDeveloper/treeview/master/media/treeview_todo_demo.gif" width="49%">
 
 ViewPager
 ======================
