@@ -9,9 +9,6 @@ A curated list of awesome Android UI/UX libraries.
   <a href="https://github.com/wasabeef">
     <img src="https://avatars1.githubusercontent.com/u/1833474?s=48" />
   </a>
-  <a href="https://github.com/pgreze">
-    <img src="https://avatars3.githubusercontent.com/u/14812354?s=48" />
-  </a>
 </p>
 
 ## Index
