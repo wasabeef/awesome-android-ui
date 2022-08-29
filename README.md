@@ -412,4 +412,4 @@ Name | License | Demo
 [Lollipop-AppCompat-Widgets-Skeleton](https://github.com/sachin1092/Lollipop-AppCompat-Widgets-Skeleton) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/LollipopAppCompatWidgetSkeleton.gif" width="49%">
 [Balloon(tooltips)](https://github.com/skydoves/Balloon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/61194943-f9d70380-a6ff-11e9-807f-ba1ca8126f8a.gif" width="49%"> <img src="https://user-images.githubusercontent.com/24237865/61225579-d346b600-a75b-11e9-84f8-3c06047b5003.gif" width="49%">
 [ColorPickerView](https://github.com/skydoves/colorpickerview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art0.gif" width="49%"> <img src="https://github.com/skydoves/ColorPickerView/blob/master/art/art1.gif" width="49%">
-
+[AdaptivePlus](https://github.com/adaptiveplus/AdaptivePlus-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AdaptivePlusSplashScreen.gif" width="49%">
