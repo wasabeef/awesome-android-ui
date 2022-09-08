@@ -354,6 +354,7 @@ Name | License | Demo
 [material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-ripple.gif" width="49%">
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](https://opensource.org/licenses/MIT) | ![](/art/RippleEffect.gif)
 [CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircularReveal.gif" width="49%">
+[Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/animation-ripple-android-theme.gif" width="49%">
 
 Parallax
 ======================
