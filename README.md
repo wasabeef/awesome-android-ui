@@ -261,6 +261,7 @@ Name | License | Demo
 [RoundedProgressBar](https://github.com/MackHartley/RoundedProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/roundedProgressBarDemo.gif" width="60%">
 [FAB-Loading](https://github.com/SaeedMasoumi/FAB-Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FAB-Loading.gif" width="100%">
 [materialish-progress](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/materialish-progress.gif" width="49%"> <img src="/art/materialish-progress2.gif" width="49%">
+[simple-loading](https://github.com/valartech/loading-layout) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/simple_loading.gif" width="60%">
 
 Menu
 ======================
