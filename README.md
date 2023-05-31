@@ -97,7 +97,7 @@ Name | License | Demo
 [Spotlight](https://github.com/TakuSemba/Spotlight) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/spotlight.gif" width="49%"> <img src="/art/spotlight2.gif" width="49%">
 [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialTapTargetPrompt.jpg" width="49%">
 [DrawerArrowDrawable](https://github.com/ChrisRenke/DrawerArrowDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/DrawerArrowDrawable.gif)
-[ImageSearchLayout](https://github.com/MinhyeokOh/android_app_ui) | | ![]<img src="./simulation/tagsearch.gif">
+[ImageSearchLayout](https://github.com/MinhyeokOh/android_app_ui) | | ![] <img src="./simulation/tagsearch.gif">
 
 Button
 ======================
