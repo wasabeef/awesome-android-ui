@@ -228,7 +228,7 @@ Video
 ======================
 Name | License | Demo
 --- |---------| ---
-[Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample) | Unknown | <img src="/art/VideoEditorCameraPreview.gif" width="32%">
+[Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample) | Unknown | <img src="/art/VideoEditorCameraPreview.gif" width="32%"> <img src="/art/VideoEditorCameraPip.gif" width="32%"> <img src="/art/VideoEditorCameraTimeline.gif" width="32%">
 
 SeekBar
 ======================
