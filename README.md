@@ -223,6 +223,12 @@ Name | License | Demo
 [ChiliPhotoPicker](https://github.com/ChiliLabs/ChiliPhotoPicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ChiliPhotoPicker.gif" width="49%">
 [Android Ribbon](https://github.com/skydoves/AndroidRibbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/51105497-7873e680-182c-11e9-954a-1bf767d15312.gif" align="center" width="32%"/>
 
+Video
+======================
+Name | License | Demo
+--- |---------| ---
+[Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample) | Unknown | <img src="https://github.com/Banuba/ve-sdk-android-integration-sample/blob/main/mddocs/gif/background_separation.gif" align="center" width="32%> <img src="https://github.com/Banuba/ve-sdk-android-integration-sample/blob/main/mddocs/gif/camera_pip_all.gif" align="center" width="32%> <img src="https://github.com/Banuba/ve-sdk-android-integration-sample/blob/main/mddocs/gif/editor_timeline.gif" align="center" width="32%>
+
 SeekBar
 ======================
 Name | License | Demo
