@@ -19,6 +19,7 @@ A curated list of awesome Android UI/UX libraries.
 * [ViewPager](#ViewPager)
 * [Label / Form](#Label--Form)
 * [Image](#Image)
+* [Video](#Video)
 * [SeekBar](#SeekBar)
 * [Progress](#Progress)
 * [Menu](#Menu)
@@ -227,7 +228,7 @@ Video
 ======================
 Name | License | Demo
 --- |---------| ---
-[Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample) | Unknown | <img src="/art/ve_sdk_camera_preview.gif" align="center" width="32%> <img src="/art/ve_sdk_camera_pip.gif" align="center" width="32%> <img src="/art/ve_sdk_editor_timeline.gif" align="center" width="32%>
+[Video Editor SDK](https://github.com/Banuba/ve-sdk-android-integration-sample) | Unknown | <img src="/art/VideoEditorCameraPreview.gif" width="32%">
 
 SeekBar
 ======================
