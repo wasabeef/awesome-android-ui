@@ -43,6 +43,7 @@ Name | License | Demo
 [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://media.giphy.com/media/WOlo2cTDdjGkgdAJQK/giphy.gif" width="46%"> <img src="https://media.giphy.com/media/pZfwwwOlKQtiyJFPr2/giphy.gif" width="46%">
 [Compose Neumorphism UI](https://github.com/CuriousNikhil/neumorphic-compose) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/CuriousNikhil/neumorphic-compose/blob/main/static/complete_screen.png?raw=true" height=400>
 [SSComposeCookBook](https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook) | [MIT](https://opensource.org/licenses/MIT) | <img src="https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/gif/canvas/canvas.gif" width="46%"> <img src="https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/gif/Animation/BasicAnim.gif" width="46%">
+[ComposePreference](https://github.com/zhanghai/ComposePreference) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/zhanghai/ComposePreference/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" width="46%"> <img src="https://github.com/zhanghai/ComposePreference/blob/master/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true" width="46%">
 
 Layout
 ======================
