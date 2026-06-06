@@ -222,6 +222,7 @@ Name | License | Demo
 [PanoramaImageView](https://github.com/gjiazhe/PanoramaImageView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/PanoramaImageView.gif" width="49%">
 [ChiliPhotoPicker](https://github.com/ChiliLabs/ChiliPhotoPicker) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ChiliPhotoPicker.gif" width="49%">
 [Android Ribbon](https://github.com/skydoves/AndroidRibbon) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://user-images.githubusercontent.com/24237865/51105497-7873e680-182c-11e9-954a-1bf767d15312.gif" align="center" width="32%"/>
+[Why Not! Image Carousel!](https://github.com/ImaginativeShohag/Why-Not-Image-Carousel) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="https://github.com/ImaginativeShohag/Why-Not-Image-Carousel/blob/cf796a90281fa6f69e37d5c0a543e341c88383f3/images/preview_1.gif" width="49%"> <img src="https://github.com/ImaginativeShohag/Why-Not-Image-Carousel/blob/cf796a90281fa6f69e37d5c0a543e341c88383f3/images/preview_2.gif" width="49%"> <img src="https://github.com/ImaginativeShohag/Why-Not-Image-Carousel/blob/cf796a90281fa6f69e37d5c0a543e341c88383f3/images/preview_3.gif" width="49%"> <img src="https://github.com/ImaginativeShohag/Why-Not-Image-Carousel/blob/cf796a90281fa6f69e37d5c0a543e341c88383f3/images/preview_4.gif" width="49%">
 
 SeekBar
 ======================
