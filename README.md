@@ -191,7 +191,7 @@ Name | License | Demo
 [BabushkaText](https://github.com/quiqueqs/BabushkaText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BabushkaText.png" width="49%">
 [ExpandableTextView](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText](https://github.com/wrapp-archive/floatlabelededittext) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/floatlabelededittext.gif" width="49%">
-[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
+[SizeAdjustingTextView](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
 [ParkedTextView](https://github.com/gotokatsuya/ParkedTextView) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">
 [Material Code input](https://github.com/glomadrian/material-code-input) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-code-input.gif" width="60%"> <br><br> <img src="/art/material-code-input2.gif" width="60%">
 [TextSurface](https://github.com/elevenetc/TextSurface) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextSurface.gif" width="100%">
@@ -338,7 +338,7 @@ Name | License | Demo
 [android-flip](https://github.com/openaphid/android-flip) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/android-flip.gif" width="49%"> <img src="/art/android-flip2.gif" width="49%">
 [FragmentTransactionExtended](https://github.com/DesarrolloAntonio/FragmentTransactionExtended) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FragmentTransactionExtended.gif" width="49%"> <img src="/art/FragmentTransactionExtended2.gif" width="49%">
 [KenBurnsView](https://github.com/flavioarfaria/KenBurnsView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/KenBurnsView.gif" width="49%">
-[rebound](https://github.com/facebook/rebound) | [BSD 2 License](https://opensource.org/licenses/BSD-2-Clause) | http://facebook.github.io/rebound/
+[rebound](https://github.com/facebook/rebound) | [BSD 2 License](https://opensource.org/licenses/BSD-2-Clause) | https://facebook.github.io/rebound/
 [Reachability](https://github.com/sakebook/Reachability) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Reachability.gif" width="49%">
 [AnimationEasingFunctions](https://github.com/daimajia/AnimationEasingFunctions) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/AnimationEasingFunctions.gif" width="49%">
 [EasyAndroidAnimations](https://github.com/2359media/EasyAndroidAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EasyAndroidAnimations.gif" width="49%">
@@ -392,7 +392,7 @@ Name | License | Demo
 [Material Shadow 9-Patch](https://github.com/h6ah4i/android-materialshadowninepatch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-materialshadowninepatch.png" width="49%">
 [SimpleFingerGestures](https://github.com/championswimmer/SimpleFingerGestures_Android_Library) | [Apache License v2](https://github.com/championswimmer/SimpleFingerGestures_Android_Library/blob/master/LICENSE) | <img src="/art/SimpleFingerGestures1.gif" width="49%"> <img src="/art/SimpleFingerGestures2.gif" width="49%"> <img src="/art/SimpleFingerGestures3.gif" width="49%"> <img src="/art/SimpleFingerGestures4.gif" width="49%">
 [Decor](https://github.com/chemouna/decor) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/decor.png" width="49%">
-[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](http://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
+[Voice Recording Visualizer](https://github.com/tyorikan/voice-recording-visualizer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | [![IMAGE demo](https://img.youtube.com/vi/fJTl1bgQ3j4/0.jpg)](https://www.youtube.com/watch?v=fJTl1bgQ3j4)
 [iiVisu](https://github.com/ImnIrdst/iiVisu) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/iivisu-play.gif" width="62%">
 [EasyFonts](https://github.com/vsvankhede/easyfonts) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) |  <img src="/art/easyfonts.png" width="100%">
 [Android Sliding Activity Library](https://github.com/klinker41/android-slidingactivity) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-slidingactivity.gif" width="49%"> <img src="/art/android-slidingactivity2.gif" width="49%">
