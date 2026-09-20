@@ -354,6 +354,7 @@ Name | License | Demo
 [material-ripple](https://github.com/balysv/material-ripple) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/material-ripple.gif" width="49%">
 [RippleEffect](https://github.com/traex/RippleEffect) | [MIT](https://opensource.org/licenses/MIT) | ![](/art/RippleEffect.gif)
 [CircularReveal](https://github.com/ozodrukh/CircularReveal) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/CircularReveal.gif" width="49%">
+[matrix-rain-view](https://github.com/boy-offi9-inc/matrix-rain-view) | [MIT](https://opensource.org/licenses/MIT) | <img src="/art/matrix-rain-view.gif" width="49%">
 
 Parallax
 ======================
