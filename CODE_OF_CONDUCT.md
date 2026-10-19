@@ -1,4 +1,23 @@
-# Contributor Covenant Code of Conduct
+Modify my existing DailyOS productivity app. Do not rebuild the app or remove any existing features.
+
+Update only the Focus Timer section with these requirements:
+
+1. Add a customizable Focused Reading duration in minutes. Default: 25 minutes.
+2. Add a customizable Rest duration in minutes. Default: 5 minutes.
+3. Allow the user to change both durations before starting a session.
+4. Add Start, Pause, Resume, and Reset controls.
+5. Automatically switch to Rest mode when the reading timer finishes.
+6. Automatically switch to Focused Reading mode when the rest timer finishes, and repeat the cycle until the user stops it.
+7. Clearly display the current mode: "Focused Reading" or "Rest Time".
+8. Display the remaining time in MM:SS format and show the current session number.
+9. Use accurate timing based on timestamps so the timer does not drift significantly when the browser tab is in the background.
+10. Play a sound or show a clear notification when each phase ends, where browser permissions allow it.
+11. Keep the interface mobile-friendly and match the existing DailyOS design.
+12. Preserve all existing task, study planner, habit tracker, and progress features.
+13. Do not introduce unnecessary packages or external dependencies.
+14. Test the timer transitions, pause/resume, reset, and duration changes before declaring the feature complete.
+
+Implement the changes in the existing project files and explain which files were modified.# Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
